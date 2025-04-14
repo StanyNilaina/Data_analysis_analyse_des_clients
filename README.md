@@ -26,5 +26,3 @@ Ce projet vise à analyser les habitudes d'achat des clients d'une plateforme de
 StanyNilaina
 
 ---
-
-*Projet réalisé dans le cadre de mon apprentissage pour devenir Data Analyst Freelance.*
