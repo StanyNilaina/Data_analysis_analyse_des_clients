@@ -1,0 +1,1001 @@
+customer_id,gender,age,signup_date,purchase_date,product_category,product_price,quantity,payment_method,device_type,total_amount
+1641,Male,22,2023-09-11,2023-09-14,Electronics,333.91,2,Credit Card,Mobile,667.82
+1426,Male,42,2023-01-16,2023-05-13,Electronics,443.91,1,PayPal,Tablet,443.91
+1304,Male,22,2023-08-13,2023-11-29,Beauty,401.94,1,PayPal,Mobile,401.94
+1431,Female,35,2023-03-26,2023-08-09,Home,33.7,3,Bank Transfer,Tablet,101.10000000000001
+1677,Female,23,2023-03-01,2023-02-27,Home,314.24,3,Bank Transfer,Desktop,942.72
+1638,Female,54,2023-11-26,2023-06-16,Books,57.39,3,Credit Card,Desktop,172.17000000000002
+1330,Female,19,2023-06-01,2023-03-01,Electronics,250.83,1,Bank Transfer,Mobile,250.83
+1832,Female,64,2023-05-30,2023-09-15,Home,425.55,4,Credit Card,Tablet,1702.2
+1809,Male,43,2023-11-01,2023-12-30,Clothing,59.59,4,Credit Card,Desktop,238.36
+1889,Female,48,2023-09-20,2023-01-24,Home,95.03,1,PayPal,Mobile,95.03
+1454,Male,56,2023-05-25,2023-07-27,Books,438.11,2,Credit Card,Mobile,876.22
+1961,Male,30,2023-10-02,2023-06-24,Books,197.54,3,PayPal,Mobile,592.62
+1069,Female,58,2023-10-23,2023-02-18,Beauty,88.76,2,PayPal,Tablet,177.52
+1033,Male,68,2023-10-03,2023-12-18,Books,39.95,4,Credit Card,Mobile,159.8
+1908,Female,39,2023-12-24,2023-02-13,Home,156.25,1,Credit Card,Desktop,156.25
+1813,Male,31,2023-08-23,2023-02-19,Home,80.29,1,PayPal,Tablet,80.29
+1853,Female,39,2023-07-04,2023-09-06,Beauty,188.51,2,Credit Card,Tablet,377.02
+1978,Male,44,2023-09-29,2023-10-31,Books,264.93,3,Credit Card,Tablet,794.79
+1640,Male,56,2023-05-21,2023-02-14,Home,461.76,2,PayPal,Tablet,923.52
+1564,Female,42,2023-05-28,2023-07-04,Electronics,476.13,4,Bank Transfer,Desktop,1904.52
+1694,Male,45,2023-11-02,2023-06-14,Books,449.87,3,Bank Transfer,Mobile,1349.6100000000001
+1543,Male,65,2023-02-03,2023-08-18,Clothing,107.65,2,Bank Transfer,Mobile,215.3
+1269,Male,45,2023-02-21,2023-07-17,Electronics,313.73,3,Bank Transfer,Desktop,941.19
+1458,Female,67,2023-06-28,2023-05-07,Clothing,385.42,1,PayPal,Tablet,385.42
+1825,Female,19,2023-07-26,2023-08-24,Home,183.14,3,Credit Card,Mobile,549.42
+1054,Female,36,2023-12-31,2023-02-14,Clothing,27.97,3,Credit Card,Desktop,83.91
+1206,Female,37,2023-08-05,2023-01-25,Electronics,207.49,4,PayPal,Desktop,829.96
+1921,Male,23,2023-10-23,2023-07-14,Beauty,192.26,3,Bank Transfer,Mobile,576.78
+1331,Male,67,2023-03-08,2023-05-20,Electronics,68.51,2,Credit Card,Mobile,137.02
+1499,Male,62,2023-01-09,2023-11-12,Books,314.74,3,Bank Transfer,Desktop,944.22
+1253,Female,35,2023-03-23,2023-07-03,Home,372.36,3,PayPal,Mobile,1117.08
+1746,Male,46,2023-11-21,2023-10-13,Beauty,22.97,1,Bank Transfer,Desktop,22.97
+1270,Male,64,2023-07-25,2023-05-14,Clothing,193.34,1,Bank Transfer,Tablet,193.34
+1121,Female,52,2023-03-05,2023-12-22,Home,351.57,3,Bank Transfer,Tablet,1054.71
+1194,Female,18,2023-03-16,2023-05-30,Books,214.46,4,PayPal,Mobile,857.84
+1635,Female,44,2023-12-12,2023-07-10,Beauty,190.37,2,PayPal,Desktop,380.74
+1000,Male,47,2023-09-16,2023-04-18,Books,228.21,1,Bank Transfer,Mobile,228.21
+1891,Female,51,2023-10-23,2023-09-30,Electronics,178.81,1,Bank Transfer,Desktop,178.81
+1976,Male,20,2023-08-20,2023-05-02,Electronics,372.57,3,PayPal,Desktop,1117.71
+1396,Female,47,2023-10-29,2023-10-01,Books,57.08,4,Bank Transfer,Mobile,228.32
+1518,Female,34,2023-01-09,2023-01-06,Beauty,437.93,2,Bank Transfer,Tablet,875.86
+1913,Female,38,2023-07-18,2023-01-09,Books,332.24,3,Credit Card,Desktop,996.72
+1843,Female,32,2023-08-13,2023-02-10,Electronics,135.75,3,Bank Transfer,Mobile,407.25
+1628,Female,36,2023-04-29,2023-01-19,Clothing,219.37,1,Credit Card,Desktop,219.37
+1066,Male,45,2023-01-01,2023-10-14,Books,402.51,2,Credit Card,Desktop,805.02
+1255,Female,60,2023-11-08,2023-01-14,Beauty,46.87,1,PayPal,Desktop,46.87
+1122,Female,54,2023-11-12,2023-04-15,Clothing,134.23,1,PayPal,Tablet,134.23
+1097,Female,49,2023-02-15,2023-04-05,Home,433.94,1,PayPal,Mobile,433.94
+1515,Female,66,2023-10-15,2023-09-19,Clothing,311.11,2,PayPal,Desktop,622.22
+1910,Male,37,2023-05-25,2023-03-31,Electronics,477.87,3,Credit Card,Desktop,1433.6100000000001
+1348,Female,68,2023-11-24,2023-02-07,Home,477.15,2,PayPal,Desktop,954.3
+1944,Male,21,2023-02-07,2023-09-10,Clothing,163.29,2,PayPal,Tablet,326.58
+1301,Male,63,2023-01-23,2023-02-03,Books,56.53,1,Bank Transfer,Desktop,56.53
+1626,Male,60,2023-05-12,2023-10-03,Home,13.47,1,Credit Card,Mobile,13.47
+1439,Male,18,2023-01-05,2023-01-23,Electronics,370.72,1,Credit Card,Mobile,370.72
+1939,Male,52,2023-03-20,2023-10-06,Electronics,72.91,4,Credit Card,Tablet,291.64
+1790,Female,65,2023-04-16,2023-06-14,Electronics,453.72,3,PayPal,Desktop,1361.16
+1750,Male,43,2023-06-16,2023-12-12,Books,494.76,2,PayPal,Tablet,989.52
+1948,Male,52,2023-02-01,2023-02-06,Books,297.08,4,PayPal,Desktop,1188.32
+1304,Male,26,2023-08-09,2023-11-06,Books,30.9,1,Credit Card,Mobile,30.9
+1527,Female,44,2023-07-11,2023-05-19,Home,414.65,2,Credit Card,Desktop,829.3
+1014,Male,65,2023-09-18,2023-10-01,Home,142.1,3,Bank Transfer,Mobile,426.29999999999995
+1940,Male,22,2023-12-03,2023-08-16,Home,478.56,1,PayPal,Desktop,478.56
+1646,Female,68,2023-01-29,2023-09-11,Beauty,151.03,1,Bank Transfer,Tablet,151.03
+1156,Female,27,2023-01-14,2023-08-14,Clothing,266.78,2,PayPal,Desktop,533.56
+1225,Male,60,2023-04-19,2023-02-06,Electronics,74.47,3,Bank Transfer,Tablet,223.41
+1717,Male,30,2023-05-22,2023-07-27,Electronics,113.35,4,PayPal,Mobile,453.4
+1500,Male,47,2023-05-05,2023-05-11,Home,293.31,3,Credit Card,Desktop,879.9300000000001
+1326,Female,43,2023-08-26,2023-11-16,Beauty,65.09,1,PayPal,Desktop,65.09
+1454,Female,22,2023-11-09,2023-11-03,Clothing,285.48,4,Bank Transfer,Tablet,1141.92
+1483,Female,25,2023-06-15,2023-11-25,Books,473.79,3,PayPal,Desktop,1421.3700000000001
+1738,Female,28,2023-05-07,2023-10-02,Beauty,58.58,4,Bank Transfer,Desktop,234.32
+1223,Female,32,2023-11-25,2023-06-18,Beauty,467.07,2,PayPal,Desktop,934.14
+1389,Male,64,2023-10-30,2023-12-28,Books,449.9,2,PayPal,Tablet,899.8
+1655,Male,54,2023-09-26,2023-05-02,Beauty,467.18,1,PayPal,Tablet,467.18
+1551,Female,32,2023-08-16,2023-05-28,Beauty,118.81,3,Bank Transfer,Mobile,356.43
+1587,Female,30,2023-03-26,2023-09-20,Electronics,302.52,3,Bank Transfer,Mobile,907.56
+1119,Female,53,2023-04-14,2023-10-20,Books,193.69,4,Bank Transfer,Desktop,774.76
+1531,Female,30,2023-10-27,2023-02-03,Books,74.04,2,PayPal,Mobile,148.08
+1982,Female,25,2023-04-17,2023-03-26,Clothing,419.61,2,Bank Transfer,Mobile,839.22
+1074,Female,20,2023-05-31,2023-05-25,Electronics,43.09,2,PayPal,Mobile,86.18
+1651,Male,53,2023-09-10,2023-07-10,Clothing,64.01,4,Bank Transfer,Mobile,256.04
+1021,Female,64,2023-03-16,2023-06-04,Beauty,195.37,4,Credit Card,Tablet,781.48
+1606,Female,39,2023-10-05,2023-08-19,Books,149.25,1,PayPal,Desktop,149.25
+1613,Female,33,2023-07-15,2023-08-11,Home,373.86,2,Bank Transfer,Mobile,747.72
+1473,Male,40,2023-01-06,2023-07-13,Electronics,97.38,2,Credit Card,Tablet,194.76
+1861,Female,43,2023-03-20,2023-01-27,Books,390.57,4,PayPal,Tablet,1562.28
+1343,Male,45,2023-09-28,2023-07-05,Books,467.72,3,Bank Transfer,Tablet,1403.16
+1220,Male,29,2023-01-28,2023-10-10,Books,82.39,1,Bank Transfer,Tablet,82.39
+1208,Female,24,2023-11-15,2023-02-07,Clothing,394.53,4,PayPal,Tablet,1578.12
+1752,Male,58,2023-02-22,2023-05-07,Home,188.87,1,Bank Transfer,Desktop,188.87
+1076,Male,18,2023-02-24,2023-07-18,Electronics,417.33,2,Credit Card,Desktop,834.66
+1383,Male,29,2023-08-15,2023-02-16,Electronics,227.44,3,Bank Transfer,Tablet,682.3199999999999
+1730,Male,44,2023-08-08,2023-03-23,Books,81.15,1,Bank Transfer,Tablet,81.15
+1418,Female,24,2023-05-17,2023-04-07,Clothing,345.16,1,PayPal,Mobile,345.16
+1099,Male,51,2023-10-17,2023-02-20,Clothing,375.5,1,Bank Transfer,Tablet,375.5
+1438,Male,63,2023-04-15,2023-01-26,Books,135.22,2,Bank Transfer,Desktop,270.44
+1411,Male,59,2023-09-30,2023-02-17,Books,217.14,3,Credit Card,Tablet,651.42
+1155,Female,52,2023-06-13,2023-05-04,Home,380.75,1,PayPal,Desktop,380.75
+1915,Female,48,2023-08-26,2023-01-05,Books,226.74,4,Bank Transfer,Tablet,906.96
+1660,Male,54,2023-08-31,2023-06-08,Books,340.88,4,Credit Card,Mobile,1363.52
+1655,Male,59,2023-11-17,2023-05-03,Beauty,372.72,1,PayPal,Tablet,372.72
+1422,Male,31,2023-07-13,2023-02-27,Beauty,393.38,2,Credit Card,Tablet,786.76
+1064,Male,37,2023-03-30,2023-10-16,Home,66.14,2,Bank Transfer,Desktop,132.28
+1371,Female,61,2023-04-27,2023-09-12,Beauty,371.55,2,Bank Transfer,Mobile,743.1
+1039,Male,30,2023-11-17,2023-08-27,Books,291.5,1,Credit Card,Desktop,291.5
+1462,Male,41,2023-06-10,2023-07-04,Beauty,227.21,3,Credit Card,Desktop,681.63
+1689,Male,58,2023-09-17,2023-09-07,Clothing,294.68,2,PayPal,Tablet,589.36
+1365,Female,42,2023-12-22,2023-11-07,Electronics,159.3,2,Credit Card,Tablet,318.6
+1199,Male,36,2023-04-17,2023-11-15,Beauty,82.2,1,PayPal,Desktop,82.2
+1230,Male,49,2023-02-27,2023-09-03,Electronics,284.36,3,PayPal,Tablet,853.08
+1760,Male,38,2023-03-31,2023-11-21,Books,450.08,1,Credit Card,Tablet,450.08
+1681,Female,24,2023-03-14,2023-09-13,Beauty,323.83,2,PayPal,Mobile,647.66
+1332,Male,45,2023-01-07,2023-02-26,Electronics,420.42,1,Bank Transfer,Mobile,420.42
+1312,Female,37,2023-11-28,2023-01-10,Home,176.33,3,Credit Card,Desktop,528.99
+1198,Female,26,2023-10-13,2023-09-25,Electronics,70.19,2,Credit Card,Tablet,140.38
+1223,Male,22,2023-10-24,2023-02-05,Books,190.1,1,Bank Transfer,Tablet,190.1
+1628,Male,34,2023-02-25,2023-02-04,Clothing,267.51,1,Bank Transfer,Desktop,267.51
+1981,Female,21,2023-08-07,2023-06-26,Clothing,14.51,3,Credit Card,Desktop,43.53
+1013,Male,29,2023-03-28,2023-06-28,Home,86.12,3,PayPal,Mobile,258.36
+1573,Female,40,2023-04-10,2023-11-28,Beauty,406.28,3,Bank Transfer,Mobile,1218.84
+1510,Male,21,2023-10-14,2023-11-26,Home,179.07,2,Bank Transfer,Tablet,358.14
+1747,Male,67,2023-10-17,2023-05-02,Electronics,427.66,1,Bank Transfer,Mobile,427.66
+1780,Female,19,2023-03-31,2023-11-29,Beauty,317.46,2,Credit Card,Mobile,634.92
+1303,Male,54,2023-08-04,2023-05-18,Books,229.74,1,PayPal,Tablet,229.74
+1526,Male,61,2023-02-11,2023-06-19,Books,140.6,1,PayPal,Mobile,140.6
+1234,Female,62,2023-05-21,2023-08-06,Beauty,100.86,1,PayPal,Tablet,100.86
+1435,Female,33,2023-09-23,2023-06-12,Beauty,249.01,4,Bank Transfer,Tablet,996.04
+1789,Male,60,2023-09-21,2023-03-15,Books,379.14,2,Bank Transfer,Tablet,758.28
+1310,Female,22,2023-07-13,2023-12-11,Beauty,393.75,4,PayPal,Desktop,1575.0
+1226,Male,65,2023-12-06,2023-09-07,Clothing,407.2,4,PayPal,Desktop,1628.8
+1924,Male,62,2023-12-11,2023-07-04,Home,107.29,3,Credit Card,Mobile,321.87
+1731,Male,62,2023-12-01,2023-10-12,Electronics,58.04,2,PayPal,Desktop,116.08
+1443,Female,49,2023-10-07,2023-03-16,Electronics,13.33,2,Credit Card,Mobile,26.66
+1363,Female,22,2023-12-01,2023-12-15,Books,127.22,3,Credit Card,Mobile,381.65999999999997
+1700,Male,68,2023-12-25,2023-04-14,Home,274.29,2,Bank Transfer,Mobile,548.58
+1983,Female,32,2023-01-17,2023-09-04,Beauty,323.64,4,Credit Card,Tablet,1294.56
+1812,Male,64,2023-08-04,2023-03-18,Clothing,426.09,4,PayPal,Mobile,1704.36
+1322,Female,41,2023-02-22,2023-09-27,Clothing,386.85,2,Bank Transfer,Mobile,773.7
+1153,Female,24,2023-02-06,2023-12-12,Books,165.22,1,PayPal,Tablet,165.22
+1129,Male,68,2023-01-14,2023-03-25,Home,412.79,4,Credit Card,Mobile,1651.16
+1235,Male,35,2023-01-16,2023-12-29,Books,354.16,3,Credit Card,Desktop,1062.48
+1938,Male,35,2023-03-30,2023-04-15,Electronics,351.74,2,PayPal,Desktop,703.48
+1484,Female,23,2023-07-14,2023-04-14,Books,66.48,2,PayPal,Desktop,132.96
+1515,Male,24,2023-08-28,2023-12-14,Beauty,129.03,4,Bank Transfer,Mobile,516.12
+1548,Female,39,2023-12-27,2023-04-28,Home,13.49,2,Credit Card,Desktop,26.98
+1165,Female,21,2023-08-28,2023-11-16,Books,356.29,4,PayPal,Mobile,1425.16
+1546,Male,47,2023-09-19,2023-10-10,Electronics,479.73,2,Credit Card,Desktop,959.46
+1551,Male,52,2023-06-10,2023-07-19,Electronics,400.94,2,Bank Transfer,Desktop,801.88
+1252,Female,57,2023-09-08,2023-02-06,Electronics,228.34,4,Credit Card,Tablet,913.36
+1781,Female,45,2023-12-20,2023-07-22,Beauty,81.89,4,Credit Card,Mobile,327.56
+1599,Male,45,2023-05-27,2023-12-04,Beauty,22.07,2,PayPal,Tablet,44.14
+1262,Female,29,2023-06-13,2023-08-24,Beauty,316.27,3,PayPal,Mobile,948.81
+1781,Male,52,2023-10-19,2023-06-01,Beauty,254.31,2,Credit Card,Mobile,508.62
+1061,Male,51,2023-03-26,2023-07-02,Books,30.77,3,Bank Transfer,Desktop,92.31
+1600,Male,41,2023-01-28,2023-10-24,Beauty,415.13,3,Credit Card,Tablet,1245.3899999999999
+1153,Male,69,2023-08-02,2023-07-22,Clothing,16.46,3,Bank Transfer,Tablet,49.38
+1467,Male,45,2023-01-23,2023-11-02,Books,213.61,4,Bank Transfer,Tablet,854.44
+1122,Male,62,2023-08-02,2023-10-07,Electronics,122.8,4,PayPal,Desktop,491.2
+1489,Male,51,2023-07-22,2023-06-02,Home,319.31,4,PayPal,Tablet,1277.24
+1653,Male,42,2023-05-20,2023-05-10,Books,267.12,4,PayPal,Mobile,1068.48
+1275,Male,45,2023-10-28,2023-03-04,Beauty,438.61,3,Credit Card,Mobile,1315.83
+1171,Male,32,2023-07-13,2023-05-17,Home,349.85,3,Bank Transfer,Tablet,1049.5500000000002
+1650,Male,30,2023-12-31,2023-09-18,Electronics,96.4,1,Credit Card,Desktop,96.4
+1089,Male,62,2023-11-11,2023-08-05,Beauty,142.05,1,Bank Transfer,Mobile,142.05
+1688,Male,45,2023-11-13,2023-06-29,Books,202.7,2,PayPal,Desktop,405.4
+1688,Female,58,2023-08-04,2023-12-06,Electronics,402.33,1,Bank Transfer,Mobile,402.33
+1737,Male,47,2023-09-25,2023-11-12,Clothing,439.86,3,Credit Card,Mobile,1319.58
+1121,Male,30,2023-06-06,2023-09-27,Electronics,265.12,1,Bank Transfer,Tablet,265.12
+1582,Male,63,2023-03-09,2023-05-30,Books,222.39,1,PayPal,Desktop,222.39
+1162,Female,33,2023-07-15,2023-05-26,Electronics,70.01,1,PayPal,Mobile,70.01
+1521,Male,65,2023-02-12,2023-11-09,Electronics,188.99,3,PayPal,Desktop,566.97
+1688,Female,38,2023-07-26,2023-08-08,Books,240.89,4,PayPal,Tablet,963.56
+1426,Male,45,2023-07-16,2023-09-16,Beauty,365.57,2,Bank Transfer,Desktop,731.14
+1694,Female,26,2023-03-16,2023-12-10,Beauty,499.26,3,Credit Card,Mobile,1497.78
+1987,Female,62,2023-08-17,2023-12-15,Beauty,50.79,2,Credit Card,Mobile,101.58
+1344,Female,20,2023-09-07,2023-05-05,Beauty,199.06,4,PayPal,Mobile,796.24
+1436,Male,26,2023-12-03,2023-10-07,Books,477.43,3,Bank Transfer,Tablet,1432.29
+1159,Male,41,2023-11-05,2023-08-19,Electronics,135.6,2,PayPal,Tablet,271.2
+1386,Male,24,2023-07-19,2023-04-02,Beauty,169.64,2,PayPal,Tablet,339.28
+1231,Female,44,2023-01-14,2023-06-27,Electronics,301.93,1,Bank Transfer,Tablet,301.93
+1734,Female,29,2023-11-06,2023-06-12,Beauty,204.77,1,Bank Transfer,Desktop,204.77
+1298,Female,18,2023-12-12,2023-05-13,Books,242.51,1,Credit Card,Tablet,242.51
+1371,Female,23,2023-08-31,2023-04-08,Beauty,30.51,3,PayPal,Tablet,91.53
+1478,Male,31,2023-01-21,2023-02-27,Electronics,460.85,2,PayPal,Tablet,921.7
+1330,Female,53,2023-06-26,2023-08-04,Books,54.64,4,Credit Card,Tablet,218.56
+1807,Female,34,2023-10-28,2023-10-23,Home,341.12,2,Bank Transfer,Tablet,682.24
+1465,Male,36,2023-09-07,2023-06-11,Home,420.88,2,Credit Card,Mobile,841.76
+1739,Female,67,2023-09-14,2023-07-08,Clothing,36.92,3,PayPal,Mobile,110.76
+1592,Male,19,2023-08-03,2023-11-24,Clothing,346.99,3,Credit Card,Mobile,1040.97
+1290,Male,63,2023-11-18,2023-12-18,Beauty,262.04,4,PayPal,Mobile,1048.16
+1677,Female,28,2023-08-20,2023-04-04,Beauty,13.31,3,Credit Card,Mobile,39.93
+1818,Male,55,2023-12-22,2023-11-01,Electronics,57.87,4,Credit Card,Desktop,231.48
+1568,Female,62,2023-12-06,2023-05-29,Electronics,142.77,2,PayPal,Mobile,285.54
+1099,Female,25,2023-10-29,2023-12-03,Books,102.27,2,PayPal,Mobile,204.54
+1276,Male,24,2023-02-18,2023-10-30,Home,285.75,2,Bank Transfer,Desktop,571.5
+1879,Female,34,2023-12-31,2023-06-08,Home,26.06,1,Credit Card,Mobile,26.06
+1368,Male,20,2023-01-14,2023-07-30,Clothing,134.59,2,PayPal,Tablet,269.18
+1680,Male,34,2023-10-10,2023-08-01,Clothing,251.38,1,PayPal,Desktop,251.38
+1407,Female,19,2023-01-31,2023-09-22,Electronics,240.13,1,PayPal,Mobile,240.13
+1626,Male,57,2023-02-27,2023-04-26,Clothing,273.14,4,Bank Transfer,Mobile,1092.56
+1742,Female,51,2023-12-03,2023-05-07,Home,448.41,1,PayPal,Desktop,448.41
+1478,Male,19,2023-09-28,2023-07-12,Beauty,255.42,2,PayPal,Desktop,510.84
+1131,Male,27,2023-12-30,2023-06-24,Books,446.41,2,PayPal,Tablet,892.82
+1527,Male,55,2023-12-21,2023-09-15,Clothing,106.65,2,PayPal,Mobile,213.3
+1916,Female,33,2023-02-20,2023-03-01,Beauty,324.68,4,Bank Transfer,Tablet,1298.72
+1968,Female,48,2023-05-22,2023-08-29,Electronics,427.35,2,PayPal,Desktop,854.7
+1494,Female,49,2023-03-04,2023-09-30,Beauty,291.33,3,Bank Transfer,Mobile,873.99
+1114,Male,67,2023-07-25,2023-01-07,Clothing,64.54,3,PayPal,Tablet,193.62
+1086,Male,50,2023-03-22,2023-07-01,Home,217.62,4,Bank Transfer,Desktop,870.48
+1877,Female,24,2023-01-06,2023-02-09,Electronics,91.81,2,PayPal,Desktop,183.62
+1476,Female,51,2023-12-13,2023-05-25,Books,89.33,3,Bank Transfer,Desktop,267.99
+1273,Female,64,2023-01-15,2023-12-30,Beauty,368.62,4,Credit Card,Tablet,1474.48
+1841,Female,44,2023-03-05,2023-06-11,Clothing,479.2,2,Bank Transfer,Mobile,958.4
+1957,Female,38,2023-07-26,2023-07-12,Books,245.73,2,Bank Transfer,Desktop,491.46
+1482,Female,24,2023-08-25,2023-02-03,Clothing,364.64,3,Bank Transfer,Mobile,1093.92
+1212,Female,66,2023-06-03,2023-05-12,Books,105.46,2,Bank Transfer,Desktop,210.92
+1852,Male,67,2023-12-25,2023-01-18,Beauty,268.76,3,Credit Card,Tablet,806.28
+1153,Female,47,2023-06-01,2023-07-23,Beauty,220.49,3,Credit Card,Mobile,661.47
+1019,Male,22,2023-08-26,2023-01-08,Books,457.15,1,Credit Card,Mobile,457.15
+1227,Female,28,2023-08-05,2023-03-09,Books,84.27,4,Credit Card,Desktop,337.08
+1272,Male,42,2023-10-29,2023-06-16,Electronics,256.88,4,Bank Transfer,Mobile,1027.52
+1281,Male,43,2023-09-06,2023-08-30,Electronics,317.71,1,PayPal,Tablet,317.71
+1353,Female,53,2023-01-18,2023-08-06,Electronics,285.87,4,Credit Card,Mobile,1143.48
+1100,Male,24,2023-10-21,2023-06-17,Electronics,59.44,2,Bank Transfer,Desktop,118.88
+1831,Female,46,2023-06-28,2023-04-07,Home,206.76,1,Credit Card,Mobile,206.76
+1254,Female,55,2023-06-16,2023-10-16,Beauty,421.33,3,Bank Transfer,Mobile,1263.99
+1684,Female,27,2023-08-06,2023-04-28,Home,481.53,3,PayPal,Mobile,1444.59
+1449,Male,50,2023-04-23,2023-02-27,Books,55.86,2,PayPal,Tablet,111.72
+1863,Female,24,2023-10-28,2023-11-17,Electronics,378.74,1,PayPal,Tablet,378.74
+1081,Male,68,2023-06-03,2023-04-16,Home,39.97,4,Credit Card,Desktop,159.88
+1275,Female,31,2023-05-23,2023-05-18,Electronics,72.63,2,PayPal,Tablet,145.26
+1823,Male,20,2023-08-25,2023-12-25,Electronics,128.42,1,Bank Transfer,Tablet,128.42
+1658,Male,42,2023-04-13,2023-10-02,Clothing,373.33,3,PayPal,Mobile,1119.99
+1246,Female,57,2023-05-12,2023-06-15,Home,77.66,3,PayPal,Desktop,232.98
+1874,Male,31,2023-12-09,2023-09-25,Beauty,448.9,4,Credit Card,Tablet,1795.6
+1045,Female,53,2023-11-05,2023-04-19,Clothing,377.41,2,PayPal,Mobile,754.82
+1241,Female,66,2023-04-19,2023-02-14,Home,416.93,2,Bank Transfer,Mobile,833.86
+1794,Male,20,2023-12-07,2023-03-24,Beauty,346.51,3,Credit Card,Tablet,1039.53
+1167,Male,28,2023-06-07,2023-09-04,Home,404.39,3,PayPal,Tablet,1213.17
+1846,Male,47,2023-05-18,2023-04-13,Electronics,250.14,2,Credit Card,Desktop,500.28
+1347,Female,61,2023-09-04,2023-02-02,Clothing,230.5,1,Credit Card,Desktop,230.5
+1316,Male,42,2023-04-10,2023-10-07,Books,395.85,1,PayPal,Mobile,395.85
+1218,Male,56,2023-05-25,2023-07-15,Home,126.27,4,PayPal,Desktop,505.08
+1018,Female,41,2023-05-24,2023-01-16,Clothing,350.6,1,Credit Card,Tablet,350.6
+1805,Female,19,2023-06-13,2023-11-29,Beauty,102.85,2,Credit Card,Tablet,205.7
+1536,Female,69,2023-12-26,2023-02-18,Books,174.29,1,Credit Card,Tablet,174.29
+1633,Female,22,2023-02-20,2023-10-08,Home,410.32,2,PayPal,Tablet,820.64
+1629,Male,53,2023-05-12,2023-10-05,Home,170.43,3,Bank Transfer,Mobile,511.29
+1338,Male,55,2023-03-20,2023-11-02,Clothing,217.22,1,Bank Transfer,Tablet,217.22
+1382,Male,21,2023-05-08,2023-11-17,Clothing,198.18,1,PayPal,Desktop,198.18
+1021,Female,25,2023-11-03,2023-08-16,Beauty,441.08,1,Bank Transfer,Mobile,441.08
+1383,Male,23,2023-07-20,2023-02-05,Beauty,116.16,3,PayPal,Tablet,348.48
+1124,Female,40,2023-12-10,2023-12-07,Home,416.59,4,Bank Transfer,Tablet,1666.36
+1290,Male,18,2023-09-16,2023-07-23,Clothing,188.76,4,PayPal,Desktop,755.04
+1061,Female,47,2023-04-28,2023-01-06,Beauty,356.05,2,PayPal,Tablet,712.1
+1284,Female,47,2023-06-07,2023-05-22,Beauty,482.84,4,Bank Transfer,Tablet,1931.36
+1500,Male,35,2023-09-18,2023-07-07,Electronics,52.67,4,Bank Transfer,Tablet,210.68
+1702,Female,52,2023-10-13,2023-06-25,Electronics,156.2,2,Credit Card,Mobile,312.4
+1803,Female,40,2023-07-05,2023-02-05,Clothing,202.62,1,Credit Card,Tablet,202.62
+1754,Male,65,2023-02-25,2023-06-28,Clothing,277.17,2,Credit Card,Mobile,554.34
+1942,Male,53,2023-11-15,2023-12-09,Home,459.97,1,Credit Card,Tablet,459.97
+1801,Female,31,2023-02-24,2023-11-05,Electronics,172.04,1,Bank Transfer,Tablet,172.04
+1902,Male,39,2023-08-31,2023-03-20,Clothing,233.15,3,PayPal,Desktop,699.45
+1287,Male,29,2023-03-27,2023-11-30,Books,141.14,4,PayPal,Desktop,564.56
+1338,Male,37,2023-10-05,2023-11-11,Books,160.09,3,PayPal,Mobile,480.27
+1930,Female,31,2023-12-16,2023-03-12,Beauty,43.72,3,Credit Card,Mobile,131.16
+1316,Female,19,2023-11-23,2023-02-27,Beauty,347.65,3,PayPal,Tablet,1042.9499999999998
+1525,Female,36,2023-06-23,2023-10-31,Books,33.5,2,PayPal,Tablet,67.0
+1344,Female,50,2023-03-11,2023-05-01,Home,229.47,4,Bank Transfer,Mobile,917.88
+1019,Female,36,2023-01-11,2023-11-25,Electronics,497.69,1,Credit Card,Desktop,497.69
+1308,Male,46,2023-03-07,2023-02-06,Clothing,394.89,3,PayPal,Tablet,1184.67
+1176,Female,30,2023-01-20,2023-02-23,Books,401.77,4,PayPal,Tablet,1607.08
+1268,Male,24,2023-09-18,2023-10-09,Electronics,337.18,2,Bank Transfer,Desktop,674.36
+1208,Female,39,2023-04-08,2023-03-18,Books,203.9,1,Credit Card,Mobile,203.9
+1012,Male,31,2023-08-17,2023-07-22,Beauty,39.29,3,PayPal,Desktop,117.87
+1788,Male,24,2023-06-30,2023-10-03,Beauty,382.54,2,Credit Card,Mobile,765.08
+1598,Male,47,2023-08-06,2023-10-03,Home,230.53,4,Credit Card,Tablet,922.12
+1005,Male,53,2023-07-13,2023-03-12,Books,85.27,3,Bank Transfer,Mobile,255.81
+1205,Female,30,2023-05-10,2023-04-11,Books,140.04,3,PayPal,Tablet,420.12
+1050,Male,44,2023-07-21,2023-02-07,Clothing,150.02,3,Bank Transfer,Mobile,450.06000000000006
+1017,Female,18,2023-09-28,2023-03-09,Beauty,103.05,4,Bank Transfer,Mobile,412.2
+1271,Male,69,2023-01-24,2023-04-07,Books,318.2,3,Bank Transfer,Mobile,954.5999999999999
+1780,Male,67,2023-04-04,2023-12-30,Clothing,169.16,1,Credit Card,Mobile,169.16
+1377,Female,52,2023-12-20,2023-10-03,Clothing,301.5,2,Credit Card,Mobile,603.0
+1052,Male,44,2023-06-19,2023-09-12,Clothing,231.14,1,PayPal,Mobile,231.14
+1103,Male,59,2023-10-23,2023-09-01,Clothing,404.56,4,Bank Transfer,Desktop,1618.24
+1768,Male,23,2023-01-28,2023-03-29,Clothing,42.09,3,Bank Transfer,Mobile,126.27000000000001
+1291,Male,47,2023-01-13,2023-12-04,Electronics,170.82,4,PayPal,Desktop,683.28
+1148,Female,63,2023-12-14,2023-02-19,Books,421.07,2,Bank Transfer,Mobile,842.14
+1238,Female,59,2023-10-07,2023-02-24,Beauty,447.66,2,Credit Card,Desktop,895.32
+1209,Female,61,2023-11-13,2023-12-14,Books,11.98,4,PayPal,Desktop,47.92
+1750,Male,23,2023-05-22,2023-09-28,Beauty,143.1,3,PayPal,Mobile,429.29999999999995
+1742,Male,47,2023-08-29,2023-02-23,Books,383.61,1,Bank Transfer,Desktop,383.61
+1469,Male,60,2023-11-12,2023-07-12,Home,419.35,1,Bank Transfer,Mobile,419.35
+1365,Male,19,2023-08-04,2023-07-06,Books,179.83,3,Bank Transfer,Tablet,539.49
+1087,Male,42,2023-10-28,2023-05-17,Clothing,408.96,4,PayPal,Desktop,1635.84
+1043,Female,33,2023-11-20,2023-06-29,Books,92.55,1,Credit Card,Tablet,92.55
+1960,Male,46,2023-08-28,2023-08-31,Beauty,295.82,3,PayPal,Mobile,887.46
+1162,Male,48,2023-10-22,2023-10-27,Home,220.09,1,Bank Transfer,Desktop,220.09
+1677,Male,33,2023-07-10,2023-07-08,Home,394.72,4,PayPal,Tablet,1578.88
+1274,Female,44,2023-08-15,2023-04-08,Clothing,479.5,3,Credit Card,Tablet,1438.5
+1484,Male,57,2023-06-25,2023-03-27,Home,162.55,4,PayPal,Mobile,650.2
+1044,Female,26,2023-01-25,2023-08-26,Electronics,210.45,1,Credit Card,Tablet,210.45
+1229,Female,59,2023-12-20,2023-10-27,Beauty,18.58,2,PayPal,Desktop,37.16
+1473,Female,50,2023-02-24,2023-01-13,Beauty,269.14,3,PayPal,Tablet,807.42
+1791,Male,18,2023-08-20,2023-08-11,Clothing,379.43,1,Credit Card,Mobile,379.43
+1910,Female,44,2023-04-27,2023-07-26,Beauty,213.9,3,PayPal,Mobile,641.7
+1901,Male,45,2023-04-25,2023-12-04,Electronics,380.19,1,Credit Card,Mobile,380.19
+1818,Female,51,2023-03-02,2023-01-09,Beauty,481.18,2,PayPal,Mobile,962.36
+1091,Female,53,2023-08-26,2023-10-05,Clothing,251.82,2,Bank Transfer,Tablet,503.64
+1640,Female,21,2023-11-21,2023-03-25,Home,23.5,4,Credit Card,Tablet,94.0
+1029,Female,63,2023-02-25,2023-11-23,Electronics,397.87,4,PayPal,Tablet,1591.48
+1388,Male,31,2023-07-30,2023-05-25,Home,439.19,3,Bank Transfer,Mobile,1317.57
+1365,Female,26,2023-06-09,2023-01-07,Clothing,367.48,1,PayPal,Desktop,367.48
+1016,Male,46,2023-01-16,2023-06-25,Clothing,173.78,2,Credit Card,Tablet,347.56
+1254,Female,45,2023-07-23,2023-10-10,Beauty,306.63,1,PayPal,Mobile,306.63
+1199,Female,32,2023-07-23,2023-04-02,Clothing,240.54,3,Credit Card,Desktop,721.62
+1882,Male,26,2023-08-22,2023-11-29,Home,153.18,3,Bank Transfer,Desktop,459.54
+1765,Female,67,2023-11-26,2023-12-15,Clothing,220.85,4,Bank Transfer,Tablet,883.4
+1031,Male,19,2023-09-29,2023-02-16,Electronics,59.62,4,Bank Transfer,Desktop,238.48
+1479,Male,69,2023-12-05,2023-12-08,Beauty,61.18,1,Credit Card,Desktop,61.18
+1950,Female,59,2023-05-14,2023-11-13,Clothing,318.25,3,Bank Transfer,Tablet,954.75
+1564,Male,68,2023-07-17,2023-09-06,Electronics,173.72,2,Bank Transfer,Desktop,347.44
+1910,Female,20,2023-01-31,2023-03-27,Electronics,334.78,3,Credit Card,Tablet,1004.3399999999999
+1536,Female,54,2023-12-06,2023-06-01,Home,484.81,2,PayPal,Desktop,969.62
+1803,Male,55,2023-02-16,2023-11-23,Electronics,138.69,4,PayPal,Tablet,554.76
+1166,Female,18,2023-04-22,2023-11-03,Books,475.59,4,PayPal,Tablet,1902.36
+1607,Male,35,2023-12-01,2023-06-12,Books,173.65,2,Credit Card,Tablet,347.3
+1619,Female,56,2023-04-03,2023-07-16,Books,25.06,3,Credit Card,Desktop,75.17999999999999
+1196,Male,47,2023-07-24,2023-06-09,Beauty,353.04,4,Credit Card,Mobile,1412.16
+1801,Female,64,2023-04-02,2023-10-25,Home,223.24,1,Bank Transfer,Mobile,223.24
+1427,Male,60,2023-07-30,2023-02-03,Beauty,143.09,1,Credit Card,Mobile,143.09
+1259,Male,23,2023-12-04,2023-02-27,Books,473.23,2,PayPal,Tablet,946.46
+1362,Male,52,2023-08-17,2023-07-21,Home,90.67,1,Credit Card,Tablet,90.67
+1461,Female,43,2023-07-22,2023-04-14,Home,11.53,3,Bank Transfer,Desktop,34.589999999999996
+1579,Male,33,2023-12-13,2023-10-29,Electronics,164.3,2,Bank Transfer,Mobile,328.6
+1955,Female,42,2023-07-26,2023-10-04,Home,293.73,1,Bank Transfer,Tablet,293.73
+1262,Female,69,2023-04-27,2023-04-01,Beauty,291.95,3,Credit Card,Tablet,875.8499999999999
+1147,Female,46,2023-06-03,2023-10-10,Clothing,406.1,3,PayPal,Tablet,1218.3000000000002
+1629,Male,43,2023-08-14,2023-09-01,Clothing,195.65,2,Bank Transfer,Mobile,391.3
+1322,Male,61,2023-12-31,2023-09-29,Beauty,225.62,2,Credit Card,Tablet,451.24
+1024,Male,38,2023-02-21,2023-03-10,Electronics,419.48,4,Credit Card,Tablet,1677.92
+1906,Female,20,2023-08-07,2023-06-12,Home,449.85,2,PayPal,Desktop,899.7
+1900,Female,44,2023-01-11,2023-04-22,Home,429.14,4,Bank Transfer,Tablet,1716.56
+1834,Female,54,2023-06-05,2023-02-01,Electronics,351.01,4,Bank Transfer,Desktop,1404.04
+1145,Male,51,2023-11-22,2023-06-30,Home,495.85,1,Bank Transfer,Tablet,495.85
+1057,Male,63,2023-09-30,2023-05-08,Home,302.4,1,Bank Transfer,Tablet,302.4
+1797,Male,66,2023-01-01,2023-06-20,Beauty,330.84,4,Bank Transfer,Desktop,1323.36
+1319,Female,68,2023-01-26,2023-07-11,Electronics,319.28,2,PayPal,Desktop,638.56
+1542,Female,34,2023-01-27,2023-05-31,Clothing,473.58,2,Bank Transfer,Desktop,947.16
+1917,Female,63,2023-07-13,2023-09-27,Clothing,309.43,4,Bank Transfer,Tablet,1237.72
+1634,Male,44,2023-10-28,2023-04-03,Beauty,229.37,4,Bank Transfer,Tablet,917.48
+1491,Female,28,2023-08-04,2023-05-10,Clothing,239.85,2,PayPal,Mobile,479.7
+1082,Female,53,2023-03-10,2023-10-30,Electronics,300.05,4,PayPal,Mobile,1200.2
+1140,Male,36,2023-10-21,2023-09-02,Electronics,336.14,1,PayPal,Mobile,336.14
+1150,Male,52,2023-04-02,2023-11-19,Beauty,83.84,4,Bank Transfer,Tablet,335.36
+1964,Male,36,2023-06-07,2023-04-09,Books,341.88,2,Credit Card,Mobile,683.76
+1837,Female,62,2023-09-07,2023-09-12,Home,346.09,1,Bank Transfer,Tablet,346.09
+1012,Male,51,2023-08-18,2023-04-23,Home,281.61,4,Bank Transfer,Tablet,1126.44
+1415,Male,69,2023-04-12,2023-11-06,Electronics,174.12,1,Credit Card,Desktop,174.12
+1688,Male,60,2023-04-26,2023-06-05,Beauty,365.72,4,Bank Transfer,Tablet,1462.88
+1349,Female,50,2023-06-04,2023-05-27,Electronics,281.17,3,Credit Card,Tablet,843.51
+1118,Female,54,2023-04-21,2023-08-14,Beauty,73.41,3,Credit Card,Tablet,220.23
+1230,Male,47,2023-04-25,2023-06-13,Electronics,102.66,3,Bank Transfer,Desktop,307.98
+1889,Female,32,2023-09-10,2023-11-26,Electronics,365.02,1,PayPal,Tablet,365.02
+1485,Male,38,2023-11-22,2023-05-25,Beauty,308.73,4,PayPal,Mobile,1234.92
+1834,Female,50,2023-01-04,2023-12-20,Clothing,305.1,4,PayPal,Desktop,1220.4
+1611,Male,19,2023-10-11,2023-11-02,Clothing,82.36,2,Bank Transfer,Mobile,164.72
+1691,Female,48,2023-08-27,2023-01-25,Home,389.01,2,Bank Transfer,Desktop,778.02
+1966,Female,53,2023-06-04,2023-07-13,Clothing,102.49,2,Bank Transfer,Desktop,204.98
+1617,Male,21,2023-06-02,2023-03-18,Clothing,202.32,3,Bank Transfer,Desktop,606.96
+1877,Female,50,2023-02-17,2023-11-25,Beauty,87.57,2,Credit Card,Mobile,175.14
+1709,Male,38,2023-01-08,2023-07-22,Books,180.71,3,Credit Card,Tablet,542.13
+1330,Female,55,2023-04-29,2023-11-01,Clothing,15.24,1,Credit Card,Desktop,15.24
+1366,Male,64,2023-01-02,2023-09-01,Books,382.92,1,PayPal,Desktop,382.92
+1267,Female,29,2023-01-23,2023-08-24,Books,27.94,1,PayPal,Mobile,27.94
+1111,Male,54,2023-06-13,2023-05-05,Books,338.78,4,Credit Card,Mobile,1355.12
+1441,Female,26,2023-01-01,2023-03-20,Home,308.8,3,Credit Card,Mobile,926.4000000000001
+1656,Female,52,2023-01-08,2023-05-24,Clothing,311.19,3,Credit Card,Tablet,933.5699999999999
+1034,Female,60,2023-11-19,2023-01-14,Books,211.32,4,Bank Transfer,Tablet,845.28
+1663,Male,64,2023-01-27,2023-05-01,Electronics,152.89,3,Credit Card,Tablet,458.66999999999996
+1915,Female,40,2023-08-24,2023-02-23,Books,273.44,3,Credit Card,Tablet,820.3199999999999
+1964,Female,28,2023-06-01,2023-07-16,Clothing,235.01,3,PayPal,Tablet,705.03
+1992,Male,36,2023-10-10,2023-03-23,Electronics,281.47,2,PayPal,Desktop,562.94
+1303,Female,51,2023-04-22,2023-08-30,Clothing,292.81,2,Bank Transfer,Desktop,585.62
+1015,Female,59,2023-06-11,2023-05-02,Clothing,111.65,4,Bank Transfer,Mobile,446.6
+1921,Female,45,2023-10-21,2023-07-01,Home,441.4,3,Credit Card,Tablet,1324.1999999999998
+1822,Female,25,2023-10-10,2023-12-04,Books,305.04,3,Bank Transfer,Mobile,915.1200000000001
+1141,Female,25,2023-01-02,2023-08-10,Home,393.42,4,PayPal,Tablet,1573.68
+1037,Male,49,2023-06-25,2023-04-15,Electronics,107.3,4,Bank Transfer,Desktop,429.2
+1947,Male,53,2023-07-10,2023-02-26,Clothing,399.92,1,Bank Transfer,Mobile,399.92
+1768,Male,22,2023-08-03,2023-10-16,Clothing,231.52,2,PayPal,Tablet,463.04
+1650,Female,26,2023-10-02,2023-04-28,Electronics,319.83,2,Bank Transfer,Desktop,639.66
+1299,Female,53,2023-05-27,2023-11-11,Books,153.51,2,Bank Transfer,Mobile,307.02
+1262,Male,25,2023-03-24,2023-12-07,Home,210.92,3,PayPal,Desktop,632.76
+1463,Female,30,2023-03-31,2023-12-23,Beauty,495.1,1,Credit Card,Mobile,495.1
+1728,Female,36,2023-08-24,2023-12-07,Electronics,165.74,2,PayPal,Desktop,331.48
+1639,Female,61,2023-01-27,2023-11-14,Beauty,316.4,2,PayPal,Desktop,632.8
+1256,Female,47,2023-03-10,2023-01-07,Books,111.04,1,Bank Transfer,Mobile,111.04
+1151,Female,27,2023-06-29,2023-02-12,Clothing,378.14,2,Bank Transfer,Desktop,756.28
+1730,Male,20,2023-11-28,2023-03-08,Beauty,493.98,3,Bank Transfer,Tablet,1481.94
+1283,Female,57,2023-10-19,2023-12-01,Books,439.53,1,PayPal,Mobile,439.53
+1649,Male,46,2023-10-19,2023-08-07,Books,59.8,2,PayPal,Desktop,119.6
+1862,Female,22,2023-05-20,2023-11-01,Home,221.89,1,PayPal,Desktop,221.89
+1873,Male,22,2023-04-21,2023-04-08,Clothing,198.13,4,Bank Transfer,Desktop,792.52
+1262,Male,41,2023-03-31,2023-02-19,Clothing,84.62,4,Credit Card,Mobile,338.48
+1691,Female,64,2023-09-26,2023-11-02,Beauty,458.23,3,Bank Transfer,Desktop,1374.69
+1248,Female,39,2023-03-06,2023-01-19,Clothing,70.38,4,PayPal,Desktop,281.52
+1565,Female,69,2023-08-08,2023-09-23,Home,165.38,1,Bank Transfer,Tablet,165.38
+1503,Male,23,2023-12-15,2023-07-06,Clothing,481.72,3,Bank Transfer,Tablet,1445.16
+1038,Female,20,2023-06-05,2023-03-11,Beauty,469.34,4,Bank Transfer,Tablet,1877.36
+1304,Male,45,2023-08-06,2023-02-28,Clothing,334.18,3,Credit Card,Mobile,1002.54
+1566,Male,41,2023-12-31,2023-12-19,Clothing,164.87,1,Bank Transfer,Mobile,164.87
+1274,Female,47,2023-01-29,2023-11-28,Home,379.34,1,Bank Transfer,Tablet,379.34
+1265,Male,44,2023-02-04,2023-05-16,Clothing,422.21,4,Credit Card,Desktop,1688.84
+1392,Female,43,2023-05-24,2023-02-26,Home,356.21,4,PayPal,Tablet,1424.84
+1780,Female,38,2023-10-14,2023-05-20,Beauty,406.2,1,Bank Transfer,Tablet,406.2
+1606,Female,32,2023-05-15,2023-06-08,Clothing,291.32,2,Credit Card,Tablet,582.64
+1294,Male,29,2023-04-01,2023-08-28,Home,376.39,2,Bank Transfer,Tablet,752.78
+1698,Male,58,2023-09-23,2023-03-05,Home,291.42,4,PayPal,Tablet,1165.68
+1329,Male,69,2023-04-25,2023-12-19,Electronics,417.16,2,Bank Transfer,Mobile,834.32
+1296,Female,63,2023-07-07,2023-01-05,Books,409.23,2,PayPal,Desktop,818.46
+1010,Male,25,2023-03-17,2023-06-03,Beauty,218.76,3,Credit Card,Tablet,656.28
+1391,Female,65,2023-03-14,2023-03-10,Beauty,133.15,3,PayPal,Tablet,399.45000000000005
+1040,Female,29,2023-04-07,2023-08-08,Electronics,10.55,3,Bank Transfer,Desktop,31.650000000000002
+1856,Male,51,2023-09-17,2023-11-02,Electronics,438.34,1,Credit Card,Mobile,438.34
+1089,Male,40,2023-06-10,2023-05-16,Books,285.53,4,Bank Transfer,Mobile,1142.12
+1144,Male,28,2023-04-04,2023-02-12,Home,333.45,4,Bank Transfer,Tablet,1333.8
+1490,Female,56,2023-11-12,2023-04-08,Books,283.77,4,Credit Card,Tablet,1135.08
+1165,Female,27,2023-09-12,2023-07-30,Clothing,61.58,4,Credit Card,Mobile,246.32
+1520,Female,50,2023-03-31,2023-01-25,Electronics,234.56,3,Bank Transfer,Tablet,703.6800000000001
+1054,Male,30,2023-12-22,2023-11-22,Beauty,379.9,4,PayPal,Desktop,1519.6
+1301,Male,27,2023-01-23,2023-10-25,Clothing,327.25,3,Credit Card,Mobile,981.75
+1562,Female,36,2023-09-15,2023-01-19,Home,282.44,3,PayPal,Desktop,847.3199999999999
+1281,Female,21,2023-07-04,2023-09-26,Home,148.32,3,PayPal,Tablet,444.96
+1264,Male,60,2023-04-18,2023-01-10,Clothing,117.89,4,PayPal,Tablet,471.56
+1036,Male,56,2023-08-21,2023-01-12,Home,246.05,3,Bank Transfer,Mobile,738.1500000000001
+1576,Male,23,2023-09-11,2023-02-03,Clothing,466.88,2,Bank Transfer,Desktop,933.76
+1927,Male,33,2023-08-20,2023-01-28,Clothing,468.68,3,PayPal,Tablet,1406.04
+1003,Male,63,2023-10-31,2023-09-03,Beauty,285.32,1,Credit Card,Mobile,285.32
+1927,Female,69,2023-12-07,2023-02-13,Clothing,441.61,1,PayPal,Tablet,441.61
+1101,Female,65,2023-01-05,2023-12-17,Clothing,317.26,3,PayPal,Tablet,951.78
+1507,Female,67,2023-09-18,2023-08-26,Electronics,286.56,2,PayPal,Tablet,573.12
+1657,Female,33,2023-05-21,2023-07-11,Home,272.54,4,Bank Transfer,Desktop,1090.16
+1846,Female,68,2023-12-06,2023-12-13,Books,346.48,2,Credit Card,Desktop,692.96
+1443,Female,22,2023-01-22,2023-03-09,Beauty,152.15,3,Bank Transfer,Desktop,456.45000000000005
+1173,Male,30,2023-06-14,2023-11-06,Beauty,497.52,4,Bank Transfer,Mobile,1990.08
+1550,Female,66,2023-10-12,2023-04-03,Home,180.61,4,Credit Card,Tablet,722.44
+1524,Male,68,2023-09-14,2023-08-05,Home,232.44,1,Credit Card,Mobile,232.44
+1130,Male,62,2023-11-21,2023-12-26,Electronics,221.63,3,PayPal,Mobile,664.89
+1279,Female,19,2023-06-04,2023-06-30,Beauty,235.49,2,Bank Transfer,Mobile,470.98
+1702,Male,35,2023-07-14,2023-10-21,Home,146.7,4,Credit Card,Mobile,586.8
+1221,Male,66,2023-11-02,2023-11-26,Electronics,68.65,3,Bank Transfer,Desktop,205.95000000000002
+1310,Male,60,2023-12-20,2023-11-16,Books,114.69,1,Credit Card,Desktop,114.69
+1872,Male,44,2023-11-08,2023-10-29,Clothing,92.91,2,Credit Card,Desktop,185.82
+1678,Female,49,2023-12-30,2023-04-14,Electronics,187.53,1,PayPal,Mobile,187.53
+1470,Male,23,2023-08-14,2023-05-15,Home,12.38,4,Credit Card,Desktop,49.52
+1468,Female,39,2023-02-27,2023-04-30,Electronics,458.43,1,Credit Card,Tablet,458.43
+1800,Female,28,2023-03-27,2023-06-20,Clothing,323.84,4,Credit Card,Desktop,1295.36
+1973,Female,50,2023-08-12,2023-03-20,Electronics,68.05,3,PayPal,Desktop,204.14999999999998
+1509,Male,61,2023-11-21,2023-06-14,Clothing,485.82,1,PayPal,Mobile,485.82
+1509,Male,43,2023-09-19,2023-06-26,Books,97.1,2,PayPal,Desktop,194.2
+1035,Male,28,2023-12-12,2023-07-11,Electronics,392.83,3,Bank Transfer,Tablet,1178.49
+1431,Female,59,2023-09-30,2023-01-31,Beauty,107.16,2,Credit Card,Desktop,214.32
+1244,Female,25,2023-06-11,2023-11-05,Clothing,219.35,3,Credit Card,Desktop,658.05
+1729,Male,27,2023-12-12,2023-06-14,Clothing,111.37,4,Credit Card,Tablet,445.48
+1643,Male,31,2023-07-09,2023-10-29,Electronics,213.06,2,Credit Card,Mobile,426.12
+1833,Male,23,2023-06-13,2023-02-08,Clothing,328.74,2,Bank Transfer,Desktop,657.48
+1929,Female,23,2023-05-31,2023-08-04,Electronics,418.62,2,Bank Transfer,Tablet,837.24
+1848,Female,39,2023-04-11,2023-08-29,Home,212.56,1,PayPal,Mobile,212.56
+1728,Female,64,2023-06-23,2023-08-30,Electronics,126.37,2,PayPal,Desktop,252.74
+1376,Male,52,2023-07-24,2023-01-23,Clothing,236.68,4,PayPal,Desktop,946.72
+1460,Female,30,2023-08-10,2023-06-22,Books,29.48,3,Credit Card,Desktop,88.44
+1674,Female,45,2023-06-24,2023-10-03,Home,286.52,2,PayPal,Mobile,573.04
+1945,Male,27,2023-01-28,2023-07-05,Beauty,326.08,3,PayPal,Tablet,978.24
+1775,Female,47,2023-06-08,2023-10-24,Clothing,302.14,1,PayPal,Tablet,302.14
+1901,Female,18,2023-01-09,2023-01-26,Clothing,212.53,3,PayPal,Tablet,637.59
+1364,Female,55,2023-12-31,2023-07-08,Beauty,427.41,3,PayPal,Tablet,1282.23
+1753,Male,68,2023-08-23,2023-06-09,Books,424.46,1,PayPal,Tablet,424.46
+1251,Female,69,2023-12-11,2023-02-25,Clothing,47.1,3,Bank Transfer,Mobile,141.3
+1081,Female,66,2023-09-01,2023-12-04,Books,71.35,3,PayPal,Desktop,214.04999999999998
+1007,Female,34,2023-09-22,2023-11-24,Beauty,229.14,1,Credit Card,Mobile,229.14
+1590,Female,66,2023-02-07,2023-04-18,Electronics,311.01,2,Credit Card,Desktop,622.02
+1149,Male,69,2023-02-13,2023-11-24,Home,154.08,3,Bank Transfer,Desktop,462.24
+1601,Male,63,2023-05-07,2023-01-27,Home,367.45,2,PayPal,Tablet,734.9
+1861,Female,45,2023-08-15,2023-12-13,Home,67.57,4,PayPal,Mobile,270.28
+1587,Female,19,2023-01-31,2023-02-21,Beauty,272.78,2,Credit Card,Tablet,545.56
+1565,Male,64,2023-07-26,2023-06-13,Clothing,415.28,3,PayPal,Mobile,1245.84
+1338,Female,62,2023-09-18,2023-12-12,Home,426.36,4,Bank Transfer,Desktop,1705.44
+1430,Male,62,2023-08-05,2023-11-08,Home,122.04,3,PayPal,Mobile,366.12
+1622,Male,62,2023-04-21,2023-03-21,Clothing,319.55,4,Bank Transfer,Desktop,1278.2
+1519,Female,30,2023-10-11,2023-06-27,Clothing,379.07,3,PayPal,Mobile,1137.21
+1104,Female,33,2023-03-09,2023-05-27,Clothing,105.91,4,Credit Card,Desktop,423.64
+1304,Female,54,2023-09-22,2023-08-17,Books,335.29,2,Credit Card,Desktop,670.58
+1828,Female,30,2023-02-26,2023-05-22,Home,300.1,4,Bank Transfer,Tablet,1200.4
+1596,Female,34,2023-06-21,2023-03-21,Clothing,492.93,3,Credit Card,Mobile,1478.79
+1866,Male,69,2023-04-27,2023-10-07,Electronics,278.82,3,PayPal,Mobile,836.46
+1890,Female,45,2023-11-09,2023-10-28,Home,352.76,3,Credit Card,Desktop,1058.28
+1451,Female,40,2023-05-27,2023-06-11,Electronics,151.39,3,Bank Transfer,Desktop,454.16999999999996
+1087,Male,48,2023-05-12,2023-09-24,Electronics,346.01,1,PayPal,Desktop,346.01
+1590,Male,28,2023-02-16,2023-01-09,Beauty,434.03,2,Bank Transfer,Tablet,868.06
+1662,Female,57,2023-02-15,2023-03-14,Electronics,37.88,3,Bank Transfer,Mobile,113.64000000000001
+1978,Male,64,2023-06-17,2023-09-06,Home,189.09,1,Bank Transfer,Desktop,189.09
+1751,Female,32,2023-12-03,2023-09-25,Home,344.18,4,Bank Transfer,Tablet,1376.72
+1828,Female,32,2023-09-01,2023-06-02,Beauty,267.71,2,Credit Card,Mobile,535.42
+1981,Female,31,2023-05-13,2023-07-31,Home,46.54,2,Credit Card,Desktop,93.08
+1994,Male,44,2023-03-06,2023-03-03,Beauty,221.85,3,PayPal,Tablet,665.55
+1961,Female,30,2023-06-07,2023-06-03,Home,303.88,4,PayPal,Desktop,1215.52
+1023,Male,31,2023-07-10,2023-11-06,Clothing,447.47,2,Bank Transfer,Mobile,894.94
+1025,Male,49,2023-10-11,2023-12-14,Home,256.97,3,Bank Transfer,Mobile,770.9100000000001
+1360,Female,37,2023-08-18,2023-04-12,Books,410.37,4,Credit Card,Mobile,1641.48
+1873,Female,33,2023-05-01,2023-11-20,Home,459.52,3,Credit Card,Mobile,1378.56
+1428,Male,49,2023-11-21,2023-09-06,Books,125.42,4,PayPal,Tablet,501.68
+1090,Male,35,2023-05-14,2023-02-16,Home,368.0,2,Credit Card,Desktop,736.0
+1601,Male,18,2023-02-02,2023-09-28,Clothing,267.72,2,Credit Card,Tablet,535.44
+1634,Female,24,2023-10-28,2023-11-06,Books,151.29,4,PayPal,Mobile,605.16
+1398,Female,35,2023-05-06,2023-07-01,Electronics,473.96,4,PayPal,Tablet,1895.84
+1101,Female,68,2023-04-13,2023-12-25,Clothing,310.53,4,Bank Transfer,Desktop,1242.12
+1605,Male,59,2023-04-26,2023-09-21,Books,357.99,1,Bank Transfer,Tablet,357.99
+1425,Male,27,2023-08-05,2023-01-22,Clothing,17.66,1,Credit Card,Tablet,17.66
+1157,Female,53,2023-03-16,2023-08-28,Clothing,367.78,1,Bank Transfer,Desktop,367.78
+1623,Male,37,2023-06-01,2023-09-14,Books,342.48,1,Bank Transfer,Desktop,342.48
+1549,Male,51,2023-03-26,2023-03-04,Home,229.32,3,Bank Transfer,Desktop,687.96
+1915,Female,29,2023-10-24,2023-06-12,Beauty,22.28,3,Bank Transfer,Tablet,66.84
+1370,Male,57,2023-08-23,2023-08-15,Clothing,495.88,4,Bank Transfer,Desktop,1983.52
+1124,Male,57,2023-05-04,2023-05-02,Electronics,129.02,3,Bank Transfer,Tablet,387.06000000000006
+1371,Female,37,2023-06-22,2023-02-04,Electronics,425.08,4,Credit Card,Tablet,1700.32
+1078,Female,48,2023-08-12,2023-07-25,Home,426.48,1,PayPal,Desktop,426.48
+1372,Female,49,2023-08-11,2023-11-07,Books,48.04,2,Credit Card,Mobile,96.08
+1349,Female,63,2023-11-08,2023-06-19,Home,309.47,3,Bank Transfer,Mobile,928.4100000000001
+1293,Male,22,2023-06-24,2023-12-23,Books,82.92,1,Credit Card,Tablet,82.92
+1792,Male,60,2023-05-12,2023-10-16,Beauty,499.22,3,PayPal,Mobile,1497.66
+1329,Male,34,2023-06-09,2023-05-07,Clothing,364.18,3,Bank Transfer,Desktop,1092.54
+1015,Male,39,2023-10-30,2023-06-19,Electronics,68.01,1,PayPal,Mobile,68.01
+1806,Female,69,2023-05-10,2023-09-19,Books,463.89,3,Bank Transfer,Mobile,1391.67
+1207,Male,33,2023-04-12,2023-02-07,Books,433.0,2,Bank Transfer,Mobile,866.0
+1722,Male,46,2023-10-04,2023-06-16,Electronics,178.42,1,Bank Transfer,Desktop,178.42
+1481,Male,68,2023-09-27,2023-01-12,Beauty,361.97,3,PayPal,Desktop,1085.91
+1894,Male,68,2023-05-20,2023-01-19,Electronics,91.29,1,PayPal,Tablet,91.29
+1004,Female,37,2023-03-27,2023-10-31,Beauty,484.36,2,PayPal,Mobile,968.72
+1879,Female,45,2023-08-29,2023-10-24,Home,420.39,4,PayPal,Mobile,1681.56
+1407,Female,22,2023-02-10,2023-04-22,Clothing,196.25,4,Credit Card,Desktop,785.0
+1824,Female,32,2023-12-09,2023-02-26,Beauty,119.84,4,PayPal,Desktop,479.36
+1754,Female,33,2023-09-25,2023-03-23,Home,482.81,1,Bank Transfer,Desktop,482.81
+1193,Female,51,2023-03-23,2023-07-17,Beauty,19.62,3,PayPal,Desktop,58.86
+1561,Male,54,2023-08-05,2023-01-26,Electronics,324.48,1,Bank Transfer,Mobile,324.48
+1773,Female,33,2023-02-24,2023-08-28,Home,379.33,1,Credit Card,Mobile,379.33
+1245,Male,37,2023-04-19,2023-12-31,Home,333.89,4,Bank Transfer,Tablet,1335.56
+1059,Male,24,2023-05-27,2023-01-03,Clothing,299.48,1,PayPal,Tablet,299.48
+1769,Female,31,2023-04-06,2023-06-08,Electronics,336.53,4,Credit Card,Mobile,1346.12
+1863,Male,18,2023-06-19,2023-10-27,Electronics,102.42,3,Credit Card,Desktop,307.26
+1941,Male,21,2023-07-16,2023-08-26,Electronics,493.96,3,PayPal,Desktop,1481.8799999999999
+1169,Female,33,2023-03-02,2023-10-15,Clothing,482.83,2,Credit Card,Desktop,965.66
+1317,Male,65,2023-04-17,2023-05-15,Home,77.31,4,Credit Card,Tablet,309.24
+1106,Female,58,2023-04-27,2023-07-26,Electronics,65.84,1,PayPal,Mobile,65.84
+1301,Female,22,2023-10-11,2023-08-04,Clothing,425.08,4,Credit Card,Tablet,1700.32
+1648,Female,39,2023-05-16,2023-03-18,Home,36.34,4,PayPal,Desktop,145.36
+1943,Male,38,2023-10-22,2023-09-04,Electronics,481.0,1,Bank Transfer,Desktop,481.0
+1865,Male,35,2023-08-09,2023-02-19,Clothing,333.05,1,PayPal,Desktop,333.05
+1719,Female,69,2023-07-29,2023-07-21,Electronics,365.33,4,PayPal,Tablet,1461.32
+1095,Female,22,2023-04-15,2023-04-03,Books,213.51,3,Credit Card,Tablet,640.53
+1087,Female,32,2023-12-02,2023-10-24,Clothing,256.58,4,Credit Card,Mobile,1026.32
+1678,Male,37,2023-05-27,2023-09-09,Beauty,10.72,4,Bank Transfer,Mobile,42.88
+1123,Male,45,2023-09-09,2023-09-28,Beauty,334.36,4,PayPal,Tablet,1337.44
+1413,Female,62,2023-11-19,2023-12-07,Home,72.44,2,PayPal,Desktop,144.88
+1788,Female,62,2023-12-28,2023-03-13,Beauty,331.67,2,Bank Transfer,Tablet,663.34
+1948,Female,64,2023-06-15,2023-06-17,Home,124.01,3,Credit Card,Desktop,372.03000000000003
+1457,Male,49,2023-05-24,2023-10-28,Clothing,382.38,1,PayPal,Mobile,382.38
+1714,Female,35,2023-02-18,2023-09-03,Home,187.76,4,PayPal,Mobile,751.04
+1027,Male,23,2023-07-28,2023-04-10,Clothing,243.02,2,Bank Transfer,Desktop,486.04
+1674,Male,26,2023-04-13,2023-10-13,Electronics,82.23,3,Bank Transfer,Mobile,246.69
+1689,Male,61,2023-10-23,2023-10-29,Books,168.09,3,PayPal,Mobile,504.27
+1428,Male,21,2023-03-12,2023-02-01,Clothing,176.48,1,PayPal,Mobile,176.48
+1714,Female,38,2023-04-23,2023-12-16,Clothing,391.99,2,PayPal,Desktop,783.98
+1591,Female,66,2023-09-25,2023-12-29,Electronics,455.24,1,Credit Card,Desktop,455.24
+1579,Female,23,2023-06-13,2023-01-08,Home,388.04,1,PayPal,Mobile,388.04
+1446,Male,19,2023-03-29,2023-07-21,Clothing,321.43,1,Bank Transfer,Desktop,321.43
+1035,Male,30,2023-07-11,2023-06-17,Beauty,97.19,3,Bank Transfer,Tablet,291.57
+1998,Male,58,2023-04-08,2023-02-06,Beauty,223.23,1,PayPal,Desktop,223.23
+1691,Female,61,2023-11-11,2023-10-19,Electronics,375.43,1,Credit Card,Desktop,375.43
+1008,Female,33,2023-10-30,2023-03-13,Home,488.6,1,PayPal,Desktop,488.6
+1189,Female,40,2023-01-20,2023-07-30,Books,351.58,3,Credit Card,Desktop,1054.74
+1384,Male,46,2023-08-25,2023-09-24,Clothing,322.65,1,Credit Card,Mobile,322.65
+1220,Male,19,2023-01-26,2023-04-01,Books,42.73,3,Credit Card,Mobile,128.19
+1833,Male,48,2023-04-20,2023-11-08,Clothing,445.05,4,Bank Transfer,Desktop,1780.2
+1309,Male,25,2023-10-26,2023-09-14,Clothing,42.83,4,PayPal,Mobile,171.32
+1789,Male,26,2023-08-21,2023-09-13,Electronics,255.26,4,Credit Card,Desktop,1021.04
+1061,Male,58,2023-06-30,2023-08-15,Home,374.03,2,PayPal,Mobile,748.06
+1951,Female,44,2023-08-13,2023-03-05,Beauty,368.74,3,Credit Card,Mobile,1106.22
+1153,Male,40,2023-10-23,2023-09-14,Electronics,302.13,4,PayPal,Mobile,1208.52
+1883,Male,58,2023-07-02,2023-02-08,Books,397.68,3,Bank Transfer,Mobile,1193.04
+1373,Female,26,2023-05-07,2023-11-28,Clothing,218.22,4,Bank Transfer,Tablet,872.88
+1913,Female,28,2023-03-16,2023-05-15,Home,381.83,1,PayPal,Mobile,381.83
+1032,Male,22,2023-05-25,2023-03-06,Electronics,175.55,4,PayPal,Desktop,702.2
+1820,Female,53,2023-10-18,2023-05-26,Electronics,67.67,2,PayPal,Mobile,135.34
+1000,Female,69,2023-06-06,2023-01-05,Books,161.32,4,Bank Transfer,Mobile,645.28
+1650,Female,31,2023-06-10,2023-08-06,Beauty,255.35,2,Bank Transfer,Tablet,510.7
+1865,Female,40,2023-05-31,2023-10-20,Clothing,131.46,1,Bank Transfer,Mobile,131.46
+1978,Female,48,2023-11-22,2023-06-12,Electronics,31.77,1,PayPal,Mobile,31.77
+1542,Male,33,2023-11-10,2023-02-14,Beauty,182.4,4,Credit Card,Mobile,729.6
+1823,Male,54,2023-11-27,2023-02-26,Electronics,314.03,3,Bank Transfer,Desktop,942.0899999999999
+1658,Male,42,2023-09-16,2023-12-31,Electronics,286.5,2,PayPal,Desktop,573.0
+1035,Male,45,2023-04-17,2023-10-06,Beauty,216.93,1,PayPal,Mobile,216.93
+1014,Male,52,2023-06-15,2023-11-19,Home,391.48,2,PayPal,Mobile,782.96
+1690,Male,44,2023-11-01,2023-03-08,Home,178.33,3,Bank Transfer,Desktop,534.99
+1203,Female,25,2023-11-27,2023-04-11,Home,324.14,2,PayPal,Mobile,648.28
+1887,Male,49,2023-12-26,2023-11-15,Clothing,191.75,4,Credit Card,Mobile,767.0
+1724,Male,32,2023-08-19,2023-10-16,Clothing,34.68,3,PayPal,Tablet,104.03999999999999
+1836,Female,62,2023-05-02,2023-03-25,Beauty,294.45,2,PayPal,Mobile,588.9
+1965,Male,29,2023-06-20,2023-01-17,Books,238.73,3,Credit Card,Desktop,716.1899999999999
+1421,Female,57,2023-07-16,2023-12-03,Electronics,231.34,3,PayPal,Tablet,694.02
+1180,Female,67,2023-04-17,2023-07-25,Beauty,56.86,1,Credit Card,Mobile,56.86
+1615,Female,66,2023-07-20,2023-09-05,Books,268.5,2,Credit Card,Tablet,537.0
+1237,Female,60,2023-08-07,2023-03-04,Home,285.34,2,Credit Card,Mobile,570.68
+1663,Male,52,2023-09-09,2023-12-08,Books,34.56,4,Bank Transfer,Tablet,138.24
+1294,Female,29,2023-04-02,2023-03-18,Electronics,163.93,4,Credit Card,Mobile,655.72
+1532,Female,30,2023-08-11,2023-11-20,Electronics,67.41,4,PayPal,Desktop,269.64
+1043,Male,26,2023-03-27,2023-08-15,Home,381.47,1,Bank Transfer,Desktop,381.47
+1413,Male,27,2023-06-12,2023-08-15,Beauty,138.95,2,PayPal,Desktop,277.9
+1272,Female,43,2023-04-28,2023-11-28,Clothing,483.35,4,Bank Transfer,Desktop,1933.4
+1543,Male,55,2023-04-01,2023-09-29,Beauty,337.98,3,PayPal,Desktop,1013.94
+1997,Female,66,2023-01-02,2023-05-21,Electronics,484.34,3,PayPal,Mobile,1453.02
+1813,Female,59,2023-11-01,2023-07-31,Beauty,60.12,1,Credit Card,Mobile,60.12
+1164,Female,56,2023-10-09,2023-11-03,Electronics,80.37,1,Credit Card,Tablet,80.37
+1496,Male,26,2023-09-04,2023-01-03,Clothing,128.02,2,PayPal,Mobile,256.04
+1169,Female,18,2023-07-21,2023-02-05,Books,441.18,1,Credit Card,Mobile,441.18
+1494,Female,50,2023-06-09,2023-07-08,Home,372.27,2,PayPal,Mobile,744.54
+1475,Female,55,2023-04-29,2023-12-29,Clothing,33.87,3,PayPal,Tablet,101.60999999999999
+1618,Female,54,2023-09-21,2023-07-31,Clothing,358.98,4,Bank Transfer,Desktop,1435.92
+1545,Female,44,2023-09-28,2023-06-01,Electronics,429.97,1,Bank Transfer,Mobile,429.97
+1113,Male,19,2023-04-05,2023-03-01,Clothing,481.39,1,PayPal,Tablet,481.39
+1430,Female,39,2023-02-04,2023-04-13,Clothing,69.11,2,Bank Transfer,Tablet,138.22
+1323,Male,65,2023-07-24,2023-01-24,Beauty,400.32,2,Bank Transfer,Tablet,800.64
+1656,Male,59,2023-08-28,2023-03-11,Home,114.63,1,Credit Card,Desktop,114.63
+1548,Female,50,2023-05-29,2023-08-29,Electronics,31.22,4,Credit Card,Tablet,124.88
+1972,Male,37,2023-01-03,2023-03-18,Books,432.19,3,Credit Card,Tablet,1296.57
+1213,Male,19,2023-06-16,2023-08-17,Beauty,80.76,3,Credit Card,Tablet,242.28000000000003
+1610,Female,51,2023-04-03,2023-11-26,Books,156.2,3,Credit Card,Desktop,468.59999999999997
+1487,Male,51,2023-08-11,2023-10-29,Clothing,359.38,1,PayPal,Desktop,359.38
+1262,Female,37,2023-07-22,2023-05-19,Clothing,39.65,2,PayPal,Mobile,79.3
+1386,Male,61,2023-02-07,2023-09-04,Electronics,320.34,2,PayPal,Mobile,640.68
+1851,Male,29,2023-11-03,2023-12-04,Books,295.53,2,Credit Card,Desktop,591.06
+1069,Female,44,2023-03-07,2023-01-24,Home,53.3,2,PayPal,Tablet,106.6
+1608,Male,50,2023-07-27,2023-08-17,Home,111.35,4,PayPal,Desktop,445.4
+1548,Male,47,2023-05-11,2023-01-06,Clothing,205.86,2,Bank Transfer,Desktop,411.72
+1989,Female,51,2023-09-13,2023-05-23,Clothing,274.21,3,PayPal,Tablet,822.6299999999999
+1710,Female,41,2023-10-09,2023-02-15,Clothing,430.13,3,PayPal,Mobile,1290.3899999999999
+1738,Female,19,2023-01-23,2023-03-18,Electronics,379.17,3,PayPal,Desktop,1137.51
+1487,Female,67,2023-04-22,2023-02-15,Beauty,493.44,4,Bank Transfer,Tablet,1973.76
+1025,Male,23,2023-10-29,2023-04-26,Home,169.38,3,Credit Card,Mobile,508.14
+1975,Female,46,2023-12-13,2023-10-23,Books,246.65,2,Credit Card,Tablet,493.3
+1008,Female,62,2023-11-18,2023-04-02,Beauty,279.05,1,Credit Card,Desktop,279.05
+1633,Male,39,2023-05-25,2023-05-15,Books,57.1,4,Credit Card,Desktop,228.4
+1950,Female,30,2023-06-14,2023-01-12,Books,243.41,1,Credit Card,Mobile,243.41
+1009,Male,55,2023-08-03,2023-04-04,Beauty,129.33,2,Bank Transfer,Desktop,258.66
+1492,Female,42,2023-03-01,2023-09-24,Beauty,164.37,1,Bank Transfer,Mobile,164.37
+1180,Male,47,2023-03-05,2023-02-17,Electronics,234.42,2,Credit Card,Mobile,468.84
+1371,Female,64,2023-10-11,2023-09-27,Home,319.35,2,Credit Card,Desktop,638.7
+1577,Male,53,2023-09-10,2023-01-01,Clothing,385.77,1,PayPal,Tablet,385.77
+1900,Female,40,2023-07-14,2023-02-18,Home,104.17,4,PayPal,Tablet,416.68
+1956,Female,46,2023-03-01,2023-12-02,Electronics,210.31,1,Credit Card,Tablet,210.31
+1192,Female,38,2023-09-07,2023-08-03,Beauty,465.08,4,PayPal,Tablet,1860.32
+1832,Female,35,2023-04-01,2023-03-03,Beauty,235.69,4,Bank Transfer,Mobile,942.76
+1292,Male,39,2023-12-23,2023-01-15,Beauty,14.96,2,PayPal,Desktop,29.92
+1786,Female,59,2023-05-30,2023-10-18,Beauty,297.68,2,Credit Card,Tablet,595.36
+1964,Male,24,2023-01-11,2023-01-25,Books,265.87,1,PayPal,Mobile,265.87
+1754,Female,50,2023-08-15,2023-09-20,Books,274.03,2,PayPal,Tablet,548.06
+1674,Female,37,2023-11-17,2023-05-15,Electronics,61.74,4,PayPal,Mobile,246.96
+1652,Male,20,2023-06-08,2023-06-09,Beauty,400.88,2,Credit Card,Mobile,801.76
+1085,Male,60,2023-02-19,2023-05-31,Beauty,90.71,1,PayPal,Mobile,90.71
+1215,Male,20,2023-04-24,2023-03-19,Home,467.54,2,Bank Transfer,Tablet,935.08
+1880,Male,47,2023-02-19,2023-05-02,Clothing,229.95,4,Bank Transfer,Tablet,919.8
+1451,Female,39,2023-08-26,2023-08-17,Clothing,203.41,4,Bank Transfer,Tablet,813.64
+1365,Male,60,2023-02-13,2023-05-25,Home,215.69,4,Credit Card,Mobile,862.76
+1363,Male,22,2023-12-28,2023-12-11,Clothing,54.62,1,Credit Card,Desktop,54.62
+1558,Female,34,2023-03-09,2023-12-23,Electronics,230.78,4,Bank Transfer,Desktop,923.12
+1418,Female,32,2023-12-28,2023-01-15,Home,206.11,1,PayPal,Desktop,206.11
+1018,Female,43,2023-11-24,2023-02-14,Electronics,385.37,2,PayPal,Tablet,770.74
+1482,Female,56,2023-11-23,2023-07-04,Electronics,411.63,1,PayPal,Mobile,411.63
+1175,Female,48,2023-09-14,2023-03-22,Home,263.94,3,Bank Transfer,Tablet,791.8199999999999
+1301,Female,51,2023-11-24,2023-04-18,Books,207.32,4,PayPal,Mobile,829.28
+1637,Female,52,2023-10-16,2023-03-25,Home,12.48,3,PayPal,Desktop,37.44
+1612,Female,32,2023-10-01,2023-07-27,Electronics,302.04,4,PayPal,Tablet,1208.16
+1216,Male,37,2023-08-23,2023-06-26,Home,466.53,3,Bank Transfer,Tablet,1399.59
+1972,Female,56,2023-08-28,2023-11-24,Clothing,44.25,1,Bank Transfer,Mobile,44.25
+1336,Male,43,2023-06-21,2023-02-20,Electronics,380.37,3,Bank Transfer,Mobile,1141.1100000000001
+1399,Male,57,2023-05-31,2023-03-11,Beauty,196.63,2,PayPal,Mobile,393.26
+1581,Male,39,2023-11-03,2023-06-25,Clothing,89.74,2,Credit Card,Desktop,179.48
+1821,Male,32,2023-06-16,2023-08-06,Books,338.23,3,Credit Card,Tablet,1014.69
+1512,Male,39,2023-04-20,2023-04-24,Books,29.44,2,Bank Transfer,Desktop,58.88
+1296,Female,58,2023-03-08,2023-11-11,Beauty,466.95,3,Credit Card,Desktop,1400.85
+1625,Female,29,2023-10-09,2023-12-10,Clothing,242.48,3,Bank Transfer,Tablet,727.4399999999999
+1085,Female,38,2023-10-24,2023-01-04,Home,418.95,1,Bank Transfer,Desktop,418.95
+1582,Male,37,2023-07-10,2023-12-05,Home,366.39,4,Credit Card,Desktop,1465.56
+1996,Male,60,2023-12-28,2023-10-03,Home,16.58,2,PayPal,Mobile,33.16
+1645,Male,61,2023-12-26,2023-09-01,Home,185.57,4,Bank Transfer,Tablet,742.28
+1850,Male,39,2023-09-17,2023-09-24,Beauty,362.44,4,PayPal,Mobile,1449.76
+1355,Male,58,2023-04-06,2023-04-23,Home,309.29,4,PayPal,Mobile,1237.16
+1191,Female,35,2023-07-28,2023-01-16,Home,425.0,4,Bank Transfer,Mobile,1700.0
+1944,Female,48,2023-12-25,2023-06-28,Books,137.96,2,PayPal,Desktop,275.92
+1798,Male,21,2023-09-08,2023-03-23,Electronics,397.53,3,Credit Card,Mobile,1192.59
+1099,Female,43,2023-02-18,2023-11-22,Books,107.38,2,Credit Card,Mobile,214.76
+1319,Male,41,2023-12-06,2023-07-07,Home,321.75,2,PayPal,Tablet,643.5
+1883,Female,26,2023-06-14,2023-12-19,Beauty,281.08,4,PayPal,Mobile,1124.32
+1131,Male,53,2023-10-10,2023-09-02,Books,215.29,3,PayPal,Tablet,645.87
+1979,Female,37,2023-12-24,2023-04-26,Beauty,210.57,4,PayPal,Desktop,842.28
+1155,Female,62,2023-03-27,2023-01-04,Beauty,171.64,4,Bank Transfer,Mobile,686.56
+1850,Female,52,2023-11-16,2023-06-14,Books,261.89,3,PayPal,Tablet,785.67
+1839,Male,55,2023-05-27,2023-07-11,Beauty,66.81,2,Bank Transfer,Tablet,133.62
+1573,Male,63,2023-03-23,2023-03-30,Home,143.77,4,PayPal,Tablet,575.08
+1498,Female,62,2023-08-28,2023-04-16,Books,346.84,1,PayPal,Mobile,346.84
+1075,Female,47,2023-09-21,2023-02-09,Beauty,104.75,2,PayPal,Desktop,209.5
+1055,Female,59,2023-10-18,2023-10-28,Books,423.24,3,Credit Card,Tablet,1269.72
+1446,Female,68,2023-11-14,2023-03-28,Books,101.23,1,Credit Card,Desktop,101.23
+1644,Male,33,2023-08-15,2023-12-12,Electronics,292.62,1,Credit Card,Mobile,292.62
+1080,Female,31,2023-03-01,2023-10-03,Home,143.86,1,Bank Transfer,Mobile,143.86
+1688,Female,31,2023-01-31,2023-09-13,Clothing,105.94,1,PayPal,Mobile,105.94
+1736,Female,55,2023-07-02,2023-01-04,Books,485.56,4,Bank Transfer,Mobile,1942.24
+1015,Male,33,2023-04-19,2023-01-15,Electronics,428.79,4,Bank Transfer,Mobile,1715.16
+1005,Female,45,2023-08-19,2023-02-13,Books,400.88,4,Bank Transfer,Tablet,1603.52
+1804,Female,60,2023-02-22,2023-04-01,Electronics,253.03,2,Bank Transfer,Mobile,506.06
+1496,Male,69,2023-09-17,2023-11-26,Home,134.15,3,Bank Transfer,Tablet,402.45000000000005
+1286,Female,56,2023-09-06,2023-02-13,Electronics,218.76,2,Credit Card,Mobile,437.52
+1495,Male,25,2023-05-17,2023-05-14,Beauty,363.45,2,PayPal,Desktop,726.9
+1004,Female,50,2023-11-30,2023-08-21,Electronics,467.48,2,Credit Card,Tablet,934.96
+1614,Female,36,2023-10-20,2023-03-01,Beauty,383.09,2,Credit Card,Desktop,766.18
+1635,Male,60,2023-04-04,2023-03-10,Books,347.13,4,PayPal,Desktop,1388.52
+1551,Male,65,2023-09-02,2023-09-22,Clothing,405.13,2,Bank Transfer,Mobile,810.26
+1940,Male,51,2023-03-04,2023-09-04,Electronics,412.33,4,PayPal,Mobile,1649.32
+1286,Female,36,2023-05-04,2023-08-24,Clothing,131.94,3,PayPal,Mobile,395.82
+1835,Female,69,2023-10-18,2023-05-30,Books,122.4,4,Bank Transfer,Mobile,489.6
+1560,Female,19,2023-10-21,2023-08-23,Electronics,248.83,3,PayPal,Mobile,746.49
+1156,Male,58,2023-02-24,2023-08-22,Clothing,133.12,4,Credit Card,Tablet,532.48
+1504,Male,55,2023-03-03,2023-01-09,Electronics,201.18,4,Credit Card,Desktop,804.72
+1808,Male,66,2023-02-26,2023-04-04,Clothing,136.92,4,Credit Card,Mobile,547.68
+1032,Female,20,2023-08-06,2023-06-27,Beauty,332.75,3,PayPal,Mobile,998.25
+1180,Female,56,2023-04-10,2023-12-29,Home,264.35,1,Credit Card,Mobile,264.35
+1887,Male,30,2023-11-24,2023-06-21,Electronics,354.81,3,PayPal,Desktop,1064.43
+1347,Female,37,2023-08-07,2023-06-27,Electronics,479.7,3,Bank Transfer,Mobile,1439.1
+1108,Female,62,2023-07-08,2023-06-24,Electronics,275.82,2,PayPal,Tablet,551.64
+1029,Male,66,2023-01-12,2023-08-18,Books,261.11,2,Credit Card,Desktop,522.22
+1474,Male,65,2023-09-25,2023-07-28,Electronics,397.85,4,Credit Card,Mobile,1591.4
+1776,Female,26,2023-10-20,2023-04-29,Books,216.44,1,Bank Transfer,Tablet,216.44
+1205,Male,18,2023-01-16,2023-09-29,Beauty,74.47,4,PayPal,Tablet,297.88
+1046,Female,34,2023-03-07,2023-11-05,Books,32.8,4,Credit Card,Desktop,131.2
+1049,Male,48,2023-01-08,2023-07-25,Books,461.98,4,PayPal,Mobile,1847.92
+1665,Female,53,2023-10-16,2023-01-01,Electronics,91.86,4,PayPal,Mobile,367.44
+1998,Male,46,2023-06-15,2023-11-29,Clothing,446.32,3,Bank Transfer,Mobile,1338.96
+1206,Male,54,2023-06-08,2023-10-29,Home,395.47,4,PayPal,Desktop,1581.88
+1775,Male,50,2023-06-24,2023-11-17,Clothing,131.02,1,Credit Card,Mobile,131.02
+1969,Male,37,2023-06-14,2023-10-22,Electronics,441.43,1,Credit Card,Mobile,441.43
+1260,Male,65,2023-07-25,2023-01-23,Beauty,496.1,1,Bank Transfer,Tablet,496.1
+1578,Female,31,2023-03-15,2023-04-24,Electronics,471.73,3,Credit Card,Tablet,1415.19
+1766,Female,32,2023-11-24,2023-11-21,Beauty,465.11,1,PayPal,Mobile,465.11
+1376,Female,45,2023-06-28,2023-01-26,Electronics,30.01,4,Credit Card,Tablet,120.04
+1808,Male,32,2023-04-16,2023-11-16,Beauty,299.46,4,Credit Card,Desktop,1197.84
+1284,Female,55,2023-05-22,2023-09-11,Electronics,110.73,3,PayPal,Tablet,332.19
+1365,Male,27,2023-11-22,2023-04-02,Electronics,176.68,3,Credit Card,Mobile,530.04
+1392,Female,51,2023-01-25,2023-08-28,Clothing,179.71,3,Credit Card,Desktop,539.13
+1833,Female,69,2023-03-01,2023-03-10,Books,499.32,2,PayPal,Mobile,998.64
+1563,Male,34,2023-03-13,2023-05-22,Electronics,340.21,2,Credit Card,Desktop,680.42
+1215,Male,37,2023-03-13,2023-10-09,Beauty,73.58,1,PayPal,Mobile,73.58
+1351,Female,55,2023-08-23,2023-06-10,Books,347.91,2,Credit Card,Tablet,695.82
+1016,Male,29,2023-01-07,2023-05-27,Clothing,135.95,1,Bank Transfer,Desktop,135.95
+1388,Female,39,2023-10-22,2023-03-15,Books,447.29,3,Bank Transfer,Mobile,1341.8700000000001
+1791,Female,21,2023-12-18,2023-11-21,Electronics,428.35,4,Bank Transfer,Desktop,1713.4
+1923,Female,67,2023-03-03,2023-11-27,Books,475.69,4,PayPal,Desktop,1902.76
+1773,Male,55,2023-11-30,2023-09-06,Beauty,233.08,4,PayPal,Desktop,932.32
+1402,Male,34,2023-01-14,2023-03-06,Home,196.82,1,Bank Transfer,Mobile,196.82
+1847,Female,40,2023-10-21,2023-08-21,Beauty,216.85,3,Bank Transfer,Mobile,650.55
+1760,Female,62,2023-09-08,2023-01-18,Books,330.2,1,Bank Transfer,Tablet,330.2
+1031,Male,62,2023-08-13,2023-07-07,Home,190.66,1,PayPal,Mobile,190.66
+1213,Female,67,2023-12-24,2023-03-07,Home,363.48,2,PayPal,Desktop,726.96
+1711,Female,69,2023-01-24,2023-01-07,Clothing,18.79,2,PayPal,Desktop,37.58
+1184,Male,52,2023-03-24,2023-06-03,Clothing,360.19,2,PayPal,Desktop,720.38
+1349,Male,54,2023-06-17,2023-10-13,Beauty,57.5,4,PayPal,Tablet,230.0
+1260,Male,59,2023-06-01,2023-12-08,Home,481.64,4,PayPal,Desktop,1926.56
+1319,Male,41,2023-02-19,2023-12-31,Books,470.14,2,Bank Transfer,Tablet,940.28
+1061,Male,28,2023-01-30,2023-05-30,Electronics,92.75,2,PayPal,Mobile,185.5
+1641,Male,27,2023-08-20,2023-03-16,Clothing,14.05,1,PayPal,Mobile,14.05
+1292,Male,55,2023-03-29,2023-06-16,Electronics,277.74,4,Bank Transfer,Mobile,1110.96
+1597,Male,68,2023-11-15,2023-05-22,Home,254.28,1,Credit Card,Tablet,254.28
+1807,Male,18,2023-11-18,2023-04-08,Clothing,164.44,4,Credit Card,Desktop,657.76
+1292,Female,62,2023-10-09,2023-03-05,Clothing,71.06,2,PayPal,Mobile,142.12
+1025,Male,23,2023-03-14,2023-08-27,Beauty,292.61,2,PayPal,Mobile,585.22
+1889,Male,62,2023-02-01,2023-11-09,Books,45.21,2,PayPal,Desktop,90.42
+1327,Male,42,2023-01-04,2023-06-20,Books,147.22,3,PayPal,Desktop,441.65999999999997
+1631,Female,28,2023-01-15,2023-09-23,Books,308.4,4,Bank Transfer,Tablet,1233.6
+1762,Female,68,2023-07-13,2023-10-13,Home,16.92,3,Credit Card,Mobile,50.760000000000005
+1319,Male,58,2023-05-28,2023-05-29,Electronics,121.12,2,PayPal,Tablet,242.24
+1400,Female,36,2023-07-23,2023-09-22,Clothing,314.52,2,Bank Transfer,Mobile,629.04
+1937,Male,54,2023-07-23,2023-02-23,Books,378.0,4,PayPal,Desktop,1512.0
+1952,Male,52,2023-06-09,2023-11-08,Electronics,31.59,3,Bank Transfer,Mobile,94.77
+1458,Male,40,2023-01-18,2023-10-31,Electronics,240.79,4,PayPal,Desktop,963.16
+1876,Female,67,2023-04-14,2023-10-13,Books,360.95,3,Bank Transfer,Desktop,1082.85
+1739,Male,27,2023-05-13,2023-05-24,Books,348.71,2,Credit Card,Desktop,697.42
+1548,Female,21,2023-08-28,2023-12-14,Clothing,172.66,2,Bank Transfer,Tablet,345.32
+1873,Male,47,2023-11-09,2023-06-04,Books,25.2,2,PayPal,Mobile,50.4
+1555,Male,32,2023-05-20,2023-10-24,Home,120.52,1,Credit Card,Desktop,120.52
+1580,Male,57,2023-08-07,2023-06-22,Beauty,44.32,4,Bank Transfer,Mobile,177.28
+1514,Female,27,2023-01-14,2023-04-07,Electronics,468.25,1,PayPal,Tablet,468.25
+1154,Male,44,2023-10-23,2023-03-30,Electronics,427.42,3,PayPal,Mobile,1282.26
+1860,Male,67,2023-11-15,2023-12-25,Home,491.13,3,Credit Card,Tablet,1473.3899999999999
+1692,Female,49,2023-02-24,2023-06-28,Clothing,164.56,3,Credit Card,Tablet,493.68
+1909,Female,65,2023-04-21,2023-07-09,Clothing,181.06,3,Credit Card,Desktop,543.1800000000001
+1501,Male,23,2023-06-26,2023-01-04,Books,470.8,1,PayPal,Desktop,470.8
+1356,Male,66,2023-04-12,2023-12-08,Beauty,93.24,2,PayPal,Tablet,186.48
+1086,Female,39,2023-03-03,2023-10-03,Beauty,406.94,2,Credit Card,Tablet,813.88
+1832,Female,65,2023-06-10,2023-04-10,Beauty,462.62,4,Credit Card,Desktop,1850.48
+1279,Female,35,2023-05-13,2023-11-24,Books,454.01,3,Bank Transfer,Tablet,1362.03
+1951,Male,24,2023-08-14,2023-03-20,Electronics,120.13,3,Bank Transfer,Mobile,360.39
+1990,Male,38,2023-11-01,2023-09-13,Books,395.08,4,Credit Card,Desktop,1580.32
+1130,Female,18,2023-10-09,2023-09-27,Home,99.47,3,Credit Card,Desktop,298.40999999999997
+1245,Female,58,2023-12-24,2023-01-02,Home,452.87,3,Credit Card,Tablet,1358.6100000000001
+1949,Female,31,2023-01-18,2023-04-19,Home,484.66,1,Credit Card,Mobile,484.66
+1772,Female,59,2023-08-30,2023-12-09,Books,239.98,1,Bank Transfer,Mobile,239.98
+1973,Male,30,2023-01-23,2023-01-27,Books,110.67,4,Credit Card,Desktop,442.68
+1889,Male,58,2023-04-24,2023-05-31,Electronics,459.1,3,PayPal,Tablet,1377.3000000000002
+1547,Female,60,2023-06-24,2023-06-16,Home,24.36,3,PayPal,Tablet,73.08
+1607,Female,62,2023-03-04,2023-05-28,Electronics,435.37,4,Bank Transfer,Tablet,1741.48
+1984,Male,41,2023-08-25,2023-07-20,Books,446.73,3,PayPal,Tablet,1340.19
+1724,Male,49,2023-06-22,2023-02-11,Clothing,175.59,2,Bank Transfer,Desktop,351.18
+1510,Female,31,2023-03-20,2023-07-07,Clothing,24.75,1,Bank Transfer,Mobile,24.75
+1351,Female,30,2023-09-19,2023-03-23,Electronics,130.12,2,Bank Transfer,Tablet,260.24
+1296,Male,38,2023-09-30,2023-06-13,Books,310.93,2,Credit Card,Mobile,621.86
+1525,Female,18,2023-10-26,2023-04-03,Books,155.49,4,Credit Card,Mobile,621.96
+1905,Male,48,2023-06-11,2023-07-07,Home,39.07,3,Bank Transfer,Tablet,117.21000000000001
+1505,Male,55,2023-08-24,2023-10-05,Books,175.25,3,Credit Card,Tablet,525.75
+1124,Male,31,2023-02-14,2023-12-23,Beauty,261.91,2,Credit Card,Tablet,523.82
+1829,Female,36,2023-06-11,2023-02-28,Books,224.1,4,Credit Card,Tablet,896.4
+1333,Female,29,2023-03-02,2023-02-01,Home,125.06,3,PayPal,Tablet,375.18
+1126,Female,38,2023-01-14,2023-09-28,Electronics,50.2,2,Bank Transfer,Mobile,100.4
+1408,Male,59,2023-05-13,2023-09-06,Home,266.08,4,PayPal,Mobile,1064.32
+1602,Female,18,2023-11-04,2023-12-04,Beauty,426.6,3,PayPal,Mobile,1279.8000000000002
+1127,Male,51,2023-01-20,2023-03-29,Beauty,13.7,4,Credit Card,Desktop,54.8
+1078,Male,61,2023-11-21,2023-04-07,Clothing,391.64,2,Credit Card,Mobile,783.28
+1147,Female,66,2023-03-21,2023-09-22,Home,16.66,2,PayPal,Desktop,33.32
+1426,Male,28,2023-08-03,2023-11-09,Beauty,192.65,1,Credit Card,Desktop,192.65
+1701,Female,38,2023-10-11,2023-11-04,Electronics,207.29,2,Bank Transfer,Desktop,414.58
+1053,Female,60,2023-02-18,2023-07-30,Beauty,282.48,3,PayPal,Desktop,847.44
+1800,Female,69,2023-03-17,2023-06-08,Books,436.4,4,Bank Transfer,Mobile,1745.6
+1216,Male,47,2023-12-08,2023-02-21,Books,399.51,4,PayPal,Mobile,1598.04
+1174,Female,43,2023-02-03,2023-04-12,Electronics,374.64,1,Bank Transfer,Desktop,374.64
+1844,Female,56,2023-04-16,2023-03-21,Beauty,378.79,2,Bank Transfer,Desktop,757.58
+1956,Male,59,2023-01-02,2023-11-15,Electronics,266.1,1,PayPal,Desktop,266.1
+1956,Female,47,2023-06-07,2023-09-29,Electronics,36.8,2,PayPal,Tablet,73.6
+1248,Female,49,2023-10-14,2023-06-10,Beauty,467.37,1,Credit Card,Tablet,467.37
+1504,Male,39,2023-06-09,2023-09-02,Beauty,450.45,1,Credit Card,Desktop,450.45
+1465,Female,65,2023-10-01,2023-06-26,Electronics,498.14,4,Credit Card,Desktop,1992.56
+1891,Female,38,2023-05-07,2023-11-13,Home,75.34,4,Credit Card,Mobile,301.36
+1351,Male,32,2023-09-09,2023-05-12,Electronics,356.49,3,PayPal,Mobile,1069.47
+1996,Female,43,2023-05-17,2023-08-10,Clothing,328.92,3,PayPal,Mobile,986.76
+1331,Male,39,2023-04-19,2023-02-01,Beauty,323.22,4,Credit Card,Tablet,1292.88
+1102,Male,23,2023-10-29,2023-08-02,Electronics,121.18,4,PayPal,Desktop,484.72
+1243,Male,54,2023-12-18,2023-03-20,Beauty,288.4,2,Credit Card,Desktop,576.8
+1774,Male,22,2023-06-22,2023-07-05,Home,464.55,4,Credit Card,Tablet,1858.2
+1393,Female,32,2023-12-25,2023-04-15,Books,48.54,3,PayPal,Tablet,145.62
+1344,Female,34,2023-07-14,2023-08-12,Clothing,109.04,4,PayPal,Desktop,436.16
+1633,Male,55,2023-03-16,2023-11-08,Clothing,55.51,4,PayPal,Desktop,222.04
+1441,Female,32,2023-07-04,2023-09-05,Clothing,240.28,2,Credit Card,Tablet,480.56
+1058,Female,46,2023-01-28,2023-05-24,Books,394.82,3,PayPal,Desktop,1184.46
+1801,Female,54,2023-03-18,2023-07-18,Home,241.51,4,Bank Transfer,Tablet,966.04
+1738,Male,23,2023-05-23,2023-01-14,Beauty,179.42,1,PayPal,Desktop,179.42
+1182,Male,32,2023-07-19,2023-07-30,Electronics,495.66,3,Bank Transfer,Mobile,1486.98
+1400,Male,26,2023-09-15,2023-10-06,Beauty,459.6,2,Credit Card,Tablet,919.2
+1839,Male,48,2023-12-03,2023-05-25,Clothing,263.09,3,PayPal,Mobile,789.27
+1757,Male,20,2023-09-15,2023-08-08,Beauty,301.72,1,Bank Transfer,Mobile,301.72
+1198,Male,55,2023-08-17,2023-05-22,Home,297.52,1,Bank Transfer,Mobile,297.52
+1564,Female,24,2023-11-10,2023-09-10,Home,422.81,1,Credit Card,Tablet,422.81
+1972,Female,22,2023-09-03,2023-01-28,Electronics,104.47,1,Bank Transfer,Mobile,104.47
+1237,Female,68,2023-07-14,2023-10-05,Home,449.45,3,Bank Transfer,Mobile,1348.35
+1094,Male,69,2023-11-10,2023-01-27,Electronics,169.16,4,Bank Transfer,Desktop,676.64
+1985,Male,51,2023-06-05,2023-01-30,Beauty,454.24,4,Credit Card,Desktop,1816.96
+1667,Female,30,2023-08-01,2023-08-20,Electronics,209.07,3,Credit Card,Mobile,627.21
+1846,Female,69,2023-04-05,2023-06-02,Beauty,290.73,2,PayPal,Desktop,581.46
+1826,Male,61,2023-12-29,2023-10-14,Electronics,117.56,3,Credit Card,Tablet,352.68
+1466,Female,30,2023-09-16,2023-07-16,Beauty,381.35,4,PayPal,Desktop,1525.4
+1140,Male,61,2023-08-21,2023-04-15,Clothing,409.18,2,Credit Card,Mobile,818.36
+1083,Male,47,2023-04-15,2023-03-31,Books,31.89,3,Bank Transfer,Mobile,95.67
+1389,Male,36,2023-08-25,2023-06-27,Home,286.35,4,Bank Transfer,Mobile,1145.4
+1574,Female,62,2023-01-01,2023-09-28,Beauty,356.68,3,PayPal,Desktop,1070.04
+1887,Female,18,2023-03-02,2023-01-26,Clothing,167.85,4,PayPal,Tablet,671.4
+1965,Male,34,2023-12-31,2023-01-02,Books,337.21,4,Bank Transfer,Mobile,1348.84
+1590,Male,61,2023-07-24,2023-02-09,Beauty,367.38,4,Bank Transfer,Mobile,1469.52
+1292,Female,57,2023-06-19,2023-07-07,Electronics,216.02,3,Credit Card,Tablet,648.0600000000001
+1156,Female,24,2023-04-28,2023-02-21,Electronics,239.86,3,PayPal,Mobile,719.58
+1030,Female,22,2023-03-26,2023-11-27,Books,368.98,1,Credit Card,Tablet,368.98
+1020,Female,53,2023-04-20,2023-11-19,Home,442.55,3,Credit Card,Mobile,1327.65
+1701,Female,67,2023-06-19,2023-10-17,Electronics,232.9,4,Credit Card,Mobile,931.6
+1570,Male,40,2023-08-28,2023-06-19,Clothing,121.5,4,PayPal,Desktop,486.0
+1651,Female,46,2023-12-04,2023-10-16,Beauty,28.78,3,PayPal,Desktop,86.34
+1508,Male,68,2023-02-07,2023-04-09,Beauty,229.13,3,Bank Transfer,Mobile,687.39
+1448,Female,37,2023-03-26,2023-06-20,Home,40.41,4,Bank Transfer,Tablet,161.64
+1775,Male,50,2023-04-18,2023-10-01,Books,474.99,4,Bank Transfer,Mobile,1899.96
+1293,Female,34,2023-03-06,2023-12-22,Electronics,260.4,4,PayPal,Desktop,1041.6
+1498,Female,18,2023-01-06,2023-12-15,Clothing,234.61,2,PayPal,Desktop,469.22
+1509,Male,56,2023-11-17,2023-06-29,Beauty,24.2,3,Bank Transfer,Mobile,72.6
+1551,Male,50,2023-04-23,2023-02-20,Clothing,179.24,1,Credit Card,Desktop,179.24
+1354,Female,30,2023-10-16,2023-04-03,Books,224.43,2,Credit Card,Tablet,448.86
+1089,Male,64,2023-04-06,2023-10-18,Beauty,314.6,2,Credit Card,Tablet,629.2
+1561,Female,38,2023-05-14,2023-10-10,Home,210.3,1,Credit Card,Desktop,210.3
+1348,Male,69,2023-11-01,2023-02-26,Books,437.86,1,PayPal,Tablet,437.86
+1108,Female,35,2023-01-24,2023-04-24,Electronics,45.16,3,Credit Card,Tablet,135.48
+1238,Female,66,2023-11-22,2023-12-16,Home,346.12,4,PayPal,Mobile,1384.48
+1114,Female,43,2023-10-12,2023-02-05,Books,324.92,3,Bank Transfer,Mobile,974.76
+1667,Female,24,2023-07-14,2023-11-11,Clothing,173.33,2,Credit Card,Mobile,346.66
+1326,Male,53,2023-11-12,2023-09-02,Beauty,398.69,4,Credit Card,Mobile,1594.76
+1563,Male,42,2023-06-26,2023-07-07,Beauty,288.6,4,Credit Card,Mobile,1154.4
+1149,Female,22,2023-07-04,2023-01-15,Electronics,333.42,1,Credit Card,Mobile,333.42
+1169,Female,48,2023-03-07,2023-05-04,Books,452.43,2,PayPal,Tablet,904.86
+1636,Male,38,2023-06-15,2023-04-14,Beauty,483.16,3,Bank Transfer,Mobile,1449.48
+1340,Female,36,2023-03-12,2023-11-07,Beauty,62.64,4,Bank Transfer,Tablet,250.56
+1231,Female,68,2023-09-26,2023-02-03,Home,293.31,3,Bank Transfer,Desktop,879.9300000000001
+1701,Female,52,2023-07-16,2023-11-03,Electronics,90.34,4,Bank Transfer,Mobile,361.36
+1140,Female,20,2023-06-16,2023-11-22,Electronics,243.28,3,PayPal,Tablet,729.84
+1071,Male,59,2023-08-11,2023-04-22,Electronics,377.0,2,PayPal,Mobile,754.0
+1767,Female,50,2023-02-24,2023-02-20,Home,267.82,1,Credit Card,Mobile,267.82
+1116,Female,59,2023-10-16,2023-09-11,Electronics,439.09,4,Bank Transfer,Tablet,1756.36
+1670,Male,65,2023-12-05,2023-02-25,Clothing,310.67,1,PayPal,Mobile,310.67
+1972,Female,67,2023-12-28,2023-04-25,Clothing,312.26,1,PayPal,Tablet,312.26
+1385,Male,50,2023-08-05,2023-06-08,Books,411.02,4,Bank Transfer,Desktop,1644.08
+1911,Male,31,2023-11-14,2023-04-12,Books,401.34,2,Credit Card,Mobile,802.68
+1785,Male,62,2023-07-16,2023-07-06,Clothing,37.23,4,PayPal,Desktop,148.92
+1398,Female,59,2023-05-31,2023-06-14,Beauty,352.44,3,Bank Transfer,Mobile,1057.32
+1654,Female,65,2023-01-25,2023-01-17,Beauty,475.4,1,Bank Transfer,Desktop,475.4
+1102,Female,18,2023-10-10,2023-09-05,Home,237.99,2,Credit Card,Desktop,475.98
+1298,Male,38,2023-01-21,2023-08-28,Home,482.94,4,Credit Card,Desktop,1931.76
+1947,Male,48,2023-05-01,2023-03-27,Electronics,269.4,2,PayPal,Mobile,538.8
+1378,Male,56,2023-03-07,2023-06-14,Electronics,377.55,2,Credit Card,Mobile,755.1
+1552,Male,56,2023-11-27,2023-11-09,Books,492.8,2,Bank Transfer,Desktop,985.6
+1836,Female,18,2023-09-19,2023-02-20,Electronics,158.86,2,Bank Transfer,Desktop,317.72
+1791,Female,24,2023-10-22,2023-01-21,Clothing,60.92,4,Credit Card,Mobile,243.68
+1705,Female,55,2023-04-07,2023-01-18,Books,164.12,3,Credit Card,Tablet,492.36
+1794,Male,49,2023-01-10,2023-04-20,Books,147.32,4,Bank Transfer,Desktop,589.28
+1431,Male,61,2023-02-07,2023-08-06,Clothing,143.91,4,Credit Card,Mobile,575.64
+1840,Male,30,2023-07-01,2023-03-13,Electronics,337.68,2,PayPal,Desktop,675.36
+1915,Male,63,2023-03-15,2023-01-02,Electronics,25.65,3,Bank Transfer,Tablet,76.94999999999999
+1663,Male,41,2023-07-28,2023-11-05,Books,477.32,4,Credit Card,Desktop,1909.28
+1203,Male,33,2023-02-25,2023-12-15,Beauty,161.14,2,Bank Transfer,Mobile,322.28
+1863,Female,67,2023-08-21,2023-05-01,Books,191.45,4,PayPal,Tablet,765.8
+1827,Male,69,2023-11-20,2023-03-30,Books,217.7,3,Credit Card,Mobile,653.0999999999999
+1230,Female,19,2023-01-25,2023-10-13,Home,85.06,4,Credit Card,Tablet,340.24
+1585,Male,33,2023-03-17,2023-09-20,Books,204.62,3,Credit Card,Desktop,613.86
+1516,Male,18,2023-07-22,2023-02-26,Home,100.19,1,Credit Card,Mobile,100.19
+1402,Female,69,2023-04-24,2023-03-10,Books,426.9,2,Bank Transfer,Mobile,853.8
+1411,Male,50,2023-05-07,2023-05-15,Electronics,122.78,1,Credit Card,Mobile,122.78
+1307,Male,62,2023-10-30,2023-02-21,Clothing,374.0,1,Bank Transfer,Mobile,374.0
+1102,Male,60,2023-10-17,2023-04-05,Home,417.35,1,Credit Card,Desktop,417.35
+1648,Female,60,2023-11-12,2023-03-14,Home,155.58,4,Credit Card,Mobile,622.32
+1638,Female,31,2023-04-07,2023-10-20,Electronics,288.48,3,Bank Transfer,Desktop,865.44
+1570,Female,18,2023-02-19,2023-07-30,Beauty,469.2,1,Bank Transfer,Desktop,469.2
+1226,Male,68,2023-11-09,2023-01-27,Books,20.93,2,PayPal,Mobile,41.86
+1740,Male,50,2023-12-06,2023-11-28,Books,381.52,3,Credit Card,Tablet,1144.56
+1944,Female,60,2023-02-20,2023-11-09,Electronics,339.94,4,Bank Transfer,Mobile,1359.76
+1331,Female,48,2023-03-29,2023-04-05,Beauty,52.23,4,PayPal,Desktop,208.92
+1121,Female,47,2023-10-10,2023-11-14,Clothing,329.19,2,Bank Transfer,Tablet,658.38
+1105,Female,48,2023-07-16,2023-06-26,Home,491.19,4,Credit Card,Mobile,1964.76
+1669,Male,50,2023-07-01,2023-07-09,Beauty,464.29,3,PayPal,Desktop,1392.8700000000001
+1308,Female,69,2023-08-12,2023-05-12,Electronics,367.56,2,Bank Transfer,Mobile,735.12
+1663,Male,48,2023-03-14,2023-04-13,Home,374.72,4,Credit Card,Mobile,1498.88
+1360,Female,31,2023-12-19,2023-04-21,Electronics,155.44,1,Credit Card,Desktop,155.44
+1430,Female,45,2023-12-28,2023-07-04,Beauty,491.07,1,Bank Transfer,Desktop,491.07
+1862,Male,42,2023-03-29,2023-08-14,Clothing,67.43,3,PayPal,Mobile,202.29000000000002
+1706,Male,19,2023-12-24,2023-01-25,Clothing,337.66,3,Credit Card,Mobile,1012.98
+1956,Female,57,2023-08-08,2023-08-02,Home,122.85,4,PayPal,Tablet,491.4
+1968,Male,43,2023-11-12,2023-04-01,Books,410.0,4,Credit Card,Tablet,1640.0
+1697,Male,51,2023-03-15,2023-08-16,Home,396.24,1,Bank Transfer,Mobile,396.24
+1741,Female,42,2023-08-14,2023-07-06,Clothing,117.88,3,PayPal,Tablet,353.64
+1481,Male,23,2023-07-02,2023-04-08,Books,45.42,1,Bank Transfer,Mobile,45.42
+1976,Male,63,2023-11-18,2023-09-18,Beauty,168.67,3,Credit Card,Desktop,506.01
+1879,Female,36,2023-01-14,2023-02-05,Electronics,367.24,4,PayPal,Desktop,1468.96
+1985,Female,29,2023-04-03,2023-12-29,Books,278.85,2,Credit Card,Desktop,557.7
+1094,Female,46,2023-11-24,2023-08-22,Home,140.41,3,Bank Transfer,Tablet,421.23
+1833,Male,19,2023-09-28,2023-06-24,Books,201.54,3,PayPal,Tablet,604.62
+1539,Female,63,2023-07-05,2023-01-19,Beauty,277.64,4,Bank Transfer,Mobile,1110.56
+1677,Female,51,2023-03-31,2023-10-06,Clothing,368.58,2,Bank Transfer,Tablet,737.16
+1723,Female,39,2023-02-22,2023-06-12,Books,413.26,2,Bank Transfer,Desktop,826.52
+1816,Female,60,2023-11-23,2023-04-20,Books,292.8,3,Bank Transfer,Desktop,878.4000000000001
+1270,Male,49,2023-08-03,2023-10-29,Electronics,109.76,4,PayPal,Tablet,439.04
+1746,Male,61,2023-04-04,2023-04-19,Books,489.92,4,Credit Card,Desktop,1959.68
+1172,Female,20,2023-02-06,2023-09-24,Books,45.03,3,Credit Card,Desktop,135.09
+1752,Female,19,2023-04-13,2023-02-27,Electronics,498.97,1,PayPal,Mobile,498.97
+1543,Male,23,2023-07-06,2023-05-08,Home,237.69,4,Bank Transfer,Desktop,950.76
+1002,Female,68,2023-07-18,2023-07-05,Electronics,75.41,2,Credit Card,Mobile,150.82
+1331,Male,44,2023-05-23,2023-03-05,Electronics,461.51,3,Bank Transfer,Mobile,1384.53
+1926,Female,58,2023-09-09,2023-08-20,Electronics,170.88,1,Bank Transfer,Mobile,170.88
+1406,Male,29,2023-08-04,2023-09-08,Home,83.56,2,PayPal,Desktop,167.12
+1820,Male,27,2023-11-21,2023-05-01,Books,234.97,3,PayPal,Mobile,704.91
+1959,Female,64,2023-11-14,2023-07-13,Clothing,245.0,2,Bank Transfer,Desktop,490.0
+1855,Female,18,2023-09-19,2023-10-14,Home,331.41,3,PayPal,Mobile,994.23
+1951,Female,42,2023-01-23,2023-12-27,Electronics,395.5,3,PayPal,Tablet,1186.5
+1761,Female,56,2023-12-13,2023-09-16,Clothing,19.7,3,Credit Card,Mobile,59.099999999999994
+1440,Female,52,2023-07-07,2023-10-07,Clothing,311.23,4,PayPal,Tablet,1244.92
+1810,Female,30,2023-04-05,2023-06-08,Electronics,433.77,1,Credit Card,Tablet,433.77
+1719,Male,68,2023-09-01,2023-05-16,Home,450.89,3,Credit Card,Tablet,1352.67
+1031,Female,66,2023-06-20,2023-07-19,Clothing,282.54,2,PayPal,Tablet,565.08
+1735,Female,33,2023-01-20,2023-12-03,Home,412.28,3,Credit Card,Tablet,1236.84
+1432,Female,25,2023-08-21,2023-01-15,Clothing,429.13,4,Bank Transfer,Tablet,1716.52
+1558,Male,48,2023-12-10,2023-06-14,Electronics,132.27,4,PayPal,Desktop,529.08
